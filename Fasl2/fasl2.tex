@@ -1,13 +1,58 @@
-\documentclass{article}
-\usepackage[tmargin=2.5cm,lmargin=2.5cm,rmargin=2.5cm,bmargin=2.5cm]{geometry}
-\usepackage{graphicx}
-\usepackage{background}
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=5em]{geometry}
+\usepackage{tikz-page}
 \usepackage{lipsum}
+\usetikzlibrary{shadows.blur}
+\usepackage{xepersian}
+\usepackage{setspace}
 
-\backgroundsetup{scale=1,angle=0,opacity=1,contents={\includegraphics[scale=1]{border}}}
+\pagestyle{plain}
+\tikzset{
+	secnode/.style={
+		minimum height=1cm,
+		inner xsep=20pt,
+		rotate=90,
+		anchor=north east,
+		draw=white,
+		fill=olive,
+		text=white,
+		blur shadow={shadow blur steps=5,shadow blur extra rounding=1.3pt}},
+	pagenode/.style={
+		minimum width=5mm,
+		minimum height=1cm,
+		inner sep=2pt,
+		anchor=south east,
+		draw=white,
+		fill=olive,
+		text=white,
+		blur shadow={shadow blur steps=5,shadow blur extra rounding=1.3pt}}
+}
+\newcommand{\tikzpagelayout}{
+	\draw[olive,line width=2pt,rounded corners=20pt] ([xshift=5mm]page.northwest) |- ([xshift=-2cm,yshift=5mm]page.southeast);
+	\node[secnode] at (page.northwest) {شکیباییان | دما};
+	\node[pagenode] at ([xshift=-1cm]page.southeast) {1};
 
+}
 
+\newcommand{\ff}{\rule{1cm}{0.15mm}\;}
+\newcommand{\fb}{\rule{2cm}{0.15mm}\;}
+\settextfont{XB Niloofar}
+\setdigitfont{XB Niloofar}
+\setstretch{1.5}
 
 \begin{document}
-	\lipsum[1-20]
+	
+
+	\ff و \ff ،‌ اجزاء بنیادی جهان مادی هستند. انرژی از راه‌های گوناگون با ماده ارتباط دارد، چنانکه کاهش \ff خورشید موجب تولید \ff می‌شود. «غذا» همواره نقش محوری در رشد، تندرسی و زندگی انسان داشته است. پیشرفت دانش و فناوری، موجب افرایش تولید فرآورده‌های کشاورزی و دامی و تولید صنعتی غذا شده است. در تولید انبوه، به دلیل فساد مواد غذایی و دشواری نگهداری، حفظ کیفیت و ارزش مواد غذایی، اهمیت به‌سزایی دارد. همچنین در صنایع غذایی، حجم عظیمی «آب» مصرف می‌شود و تأمین غذای جامعه را مشکل‌تر می‌کند.
+	\vspace{4pt}
+		\hrule
+	\vspace{12pt}
+
+خود را بیازمایید صفحه ۵۱؛\\
+الف) ــــــ و دردرجه دوم 
+\ff 
+ و  
+\ff.\\
+ب) با حذف خوراکی‌های غیر ضروری (مانند چیپس، پفک، نوشابه) تاحدی امکان تأمین هزینه مصرف انواع ــــــ در سبد خانوار تأمین می‌شود. (!!)
+	
 \end{document}
