@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.23)  24 AUG 2023 16:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.23)  24 AUG 2023 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -527,27 +527,6 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \tp@linewidth=\dimen266
 \tp@marksize=\dimen267
 )
-(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
-
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
-\g__graphics_track_int=\count284
-\l__pdf_internal_box=\box85
-\g__pdf_backend_object_int=\count285
-\g__pdf_backend_annotation_int=\count286
-\g__pdf_backend_link_int=\count287
-))
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count288
-\l__lipsum_a_int=\count289
-\l__lipsum_b_int=\count290
-
-(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 (/usr/share/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex
  v1.02, 2012/12/09
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
@@ -561,15 +540,83 @@ File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-\pgfbs@fading@count=\count291
+\pgfbs@fading@count=\count284
 ) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip120
 \enit@outerparindent=\dimen268
 \enit@toks=\toks30
-\enit@inbox=\box86
-\enit@count@id=\count292
-\enitdp@description=\count293
+\enit@inbox=\box85
+\enit@count@id=\count285
+\enitdp@description=\count286
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip121
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen269
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen270
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box86
+\strutbox@=\box87
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen271
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count292
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip16
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks32
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks33
+\eqnshift@=\dimen272
+\alignsep@=\dimen273
+\tagshift@=\dimen274
+\tagwidth@=\dimen275
+\totwidth@=\dimen276
+\lineht@=\dimen277
+\@envbody=\toks34
+\multlinegap=\skip122
+\multlinetaggap=\skip123
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
@@ -577,6 +624,17 @@ typesetting in XeLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count299
+\l__pdf_internal_box=\box88
+\g__pdf_backend_object_int=\count300
+\g__pdf_backend_annotation_int=\count301
+\g__pdf_backend_link_int=\count302
+))
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
@@ -584,20 +642,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count294
-\l__fontspec_language_int=\count295
-\l__fontspec_strnum_int=\count296
-\l__fontspec_tmp_int=\count297
-\l__fontspec_tmpa_int=\count298
-\l__fontspec_tmpb_int=\count299
-\l__fontspec_tmpc_int=\count300
-\l__fontspec_em_int=\count301
-\l__fontspec_emdef_int=\count302
-\l__fontspec_strong_int=\count303
-\l__fontspec_strongdef_int=\count304
-\l__fontspec_tmpa_dim=\dimen269
-\l__fontspec_tmpb_dim=\dimen270
-\l__fontspec_tmpc_dim=\dimen271
+\l__fontspec_script_int=\count303
+\l__fontspec_language_int=\count304
+\l__fontspec_strnum_int=\count305
+\l__fontspec_tmp_int=\count306
+\l__fontspec_tmpa_int=\count307
+\l__fontspec_tmpb_int=\count308
+\l__fontspec_tmpc_int=\count309
+\l__fontspec_em_int=\count310
+\l__fontspec_emdef_int=\count311
+\l__fontspec_strong_int=\count312
+\l__fontspec_strongdef_int=\count313
+\l__fontspec_tmpa_dim=\dimen278
+\l__fontspec_tmpb_dim=\dimen279
+\l__fontspec_tmpc_dim=\dimen280
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -605,43 +663,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count305
-\XePersian@y=\count306
-\XePersian@m=\count307
-\XePersian@d=\count308
-\XePersian@latini=\count309
-\XePersian@persiani=\count310
-\XePersian@latinii=\count311
-\XePersian@persianii=\count312
-\XePersian@latiniii=\count313
-\XePersian@persianiii=\count314
-\XePersian@latiniv=\count315
-\XePersian@persianiv=\count316
-\XePersian@latinv=\count317
-\XePersian@persianv=\count318
-\XePersian@latinvi=\count319
-\XePersian@persianvi=\count320
-\XePersian@latinvii=\count321
-\XePersian@persianvii=\count322
-\XePersian@latinviii=\count323
-\XePersian@persianviii=\count324
-\XePersian@latinix=\count325
-\XePersian@persianix=\count326
-\XePersian@latinx=\count327
-\XePersian@persianx=\count328
-\XePersian@latinxi=\count329
-\XePersian@persianxi=\count330
-\XePersian@latinxii=\count331
-\XePersian@persianxii=\count332
-\XePersian@persianxiii=\count333
-\XePersian@temp=\count334
-\XePersian@temptwo=\count335
-\XePersian@tempthree=\count336
-\XePersian@yModHundred=\count337
-\XePersian@thirtytwo=\count338
-\XePersian@dn=\count339
-\XePersian@sn=\count340
-\XePersian@mminusone=\count341
+\XePersian@i=\count314
+\XePersian@y=\count315
+\XePersian@m=\count316
+\XePersian@d=\count317
+\XePersian@latini=\count318
+\XePersian@persiani=\count319
+\XePersian@latinii=\count320
+\XePersian@persianii=\count321
+\XePersian@latiniii=\count322
+\XePersian@persianiii=\count323
+\XePersian@latiniv=\count324
+\XePersian@persianiv=\count325
+\XePersian@latinv=\count326
+\XePersian@persianv=\count327
+\XePersian@latinvi=\count328
+\XePersian@persianvi=\count329
+\XePersian@latinvii=\count330
+\XePersian@persianvii=\count331
+\XePersian@latinviii=\count332
+\XePersian@persianviii=\count333
+\XePersian@latinix=\count334
+\XePersian@persianix=\count335
+\XePersian@latinx=\count336
+\XePersian@persianx=\count337
+\XePersian@latinxi=\count338
+\XePersian@persianxi=\count339
+\XePersian@latinxii=\count340
+\XePersian@persianxii=\count341
+\XePersian@persianxiii=\count342
+\XePersian@temp=\count343
+\XePersian@temptwo=\count344
+\XePersian@tempthree=\count345
+\XePersian@yModHundred=\count346
+\XePersian@thirtytwo=\count347
+\XePersian@dn=\count348
+\XePersian@sn=\count349
+\XePersian@mminusone=\count350
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -680,19 +738,19 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/share/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks31
-\@bidi@emptytoks=\toks32
-\bidi@poscount=\count342
-\bidi@tempcountb=\count343
-\bidi@temptoksa=\toks33
-\bidi@temptoksb=\toks34
-\bidi@dummies=\count344
-\bidi@are@these@correct=\toks35
-\bidi@toks@lista=\toks36
-\bidi@toks@listb=\toks37
-\bidi@stack@length=\count345
-\bidi@empty@stack=\toks38
-\bidi@looprepeat@depth=\count346
+\@bidi@envbody=\toks36
+\@bidi@emptytoks=\toks37
+\bidi@poscount=\count351
+\bidi@tempcountb=\count352
+\bidi@temptoksa=\toks38
+\bidi@temptoksb=\toks39
+\bidi@dummies=\count353
+\bidi@are@these@correct=\toks40
+\bidi@toks@lista=\toks41
+\bidi@toks@listb=\toks42
+\bidi@stack@length=\count354
+\bidi@empty@stack=\toks43
+\bidi@looprepeat@depth=\count355
 )
 (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -733,7 +791,7 @@ Package zref Info: New property: page on input line 769.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count347
+\c@abspage=\count356
 Package zref Info: New property: abspage on input line 65.
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -741,10 +799,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks39
-\XKV@tempa@toks=\toks40
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
 )
-\XKV@depth=\count348
+\XKV@depth=\count357
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -752,18 +810,26 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/share/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks41
-\bidi@column@check@number=\count349
+\bidi@n@everypar=\toks46
+\bidi@column@check@number=\count358
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count350
-\footdir@toks=\toks42
+\c@footdir@label=\count359
+\footdir@toks=\toks47
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
 File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
 cle class for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
 File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
@@ -800,7 +866,7 @@ de.tex file for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count351
+\bidi@digits=\count360
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -829,9 +895,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count352
-\xepersian@ilg=\dimen272
-\xepersian@strutilg=\dimen273
+\xepersian@tcl=\count361
+\xepersian@ilg=\dimen281
+\xepersian@strutilg=\dimen282
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -949,7 +1015,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 53.
+'XB Niloofar' on input line 54.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -957,28 +1023,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-7.
+8.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1024,14 +1090,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-] (./fasl2.aux) ) 
-Here is how much of TeX's memory you used:
- 21532 strings out of 478682
- 514623 string characters out of 5849665
- 1859018 words of memory out of 5000000
- 41200 multiletter control sequences out of 15000+600000
- 512479 words of font info for 56 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 115i,18n,118p,1312b,1370s stack positions out of 10000i,1000n,20000p,200000b,200000s
+]
+Overfull \hbox (7.06474pt too wide) in paragraph at lines 108--109
+[][]\TU/XBNiloofar(0)/m/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
+ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
+ []
 
-Output written on fasl2.pdf (1 page).
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
+le
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 110.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 110.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 110.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+[][]
+ []
+
+Missing character: There is no ا ("627) in font cmmi8!
+Missing character: There is no س ("633) in font cmmi8!
+Missing character: There is no ت ("62A) in font cmmi8!
+Missing character: There is no ن ("646) in font cmmi8!
+Missing character: There is no ی ("6CC) in font cmmi8!
+Missing character: There is no س ("633) in font cmmi8!
+Missing character: There is no ت ("62A) in font cmmi8!
+Missing character: There is no م ("645) in font cmmi8!
+Missing character: There is no ی ("6CC) in font cmmi8!
+Missing character: There is no ‌ ("200C) in font cmr8!
+Missing character: There is no ت ("62A) in font cmmi8!
+Missing character: There is no و ("648) in font cmmi8!
+Missing character: There is no ا ("627) in font cmmi8!
+Missing character: There is no ن ("646) in font cmmi8!
+Missing character: There is no د ("62F) in font cmmi8!
+Missing character: There is no ن ("646) in font cmmi8!
+Missing character: There is no م ("645) in font cmmi8!
+Missing character: There is no ی ("6CC) in font cmmi8!
+Missing character: There is no ‌ ("200C) in font cmr8!
+Missing character: There is no ت ("62A) in font cmmi8!
+Missing character: There is no و ("648) in font cmmi8!
+Missing character: There is no ا ("627) in font cmmi8!
+Missing character: There is no ن ("646) in font cmmi8!
+Missing character: There is no د ("62F) in font cmmi8!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2] (./fasl2.aux) ) 
+Here is how much of TeX's memory you used:
+ 21891 strings out of 478682
+ 515665 string characters out of 5849665
+ 1860018 words of memory out of 5000000
+ 41530 multiletter control sequences out of 15000+600000
+ 515953 words of font info for 76 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 115i,18n,118p,1312b,1378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on fasl2.pdf (2 pages).
