@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.17)  25 AUG 2023 17:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.17)  25 AUG 2023 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,7 +1144,7 @@ Package gensymb Info: Using \textohm for \ohm on input line 66.
 Package gensymb Info: Using \textmu for \micro on input line 66.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
-(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 90.
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 87.
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -1157,32 +1157,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [1
 
 ]
-Overfull \hbox (2.69716pt too wide) in paragraph at lines 116--117
+Overfull \hbox (2.69716pt too wide) in paragraph at lines 113--114
 [][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 118.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 115.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 118.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 115.
 
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 118.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 118.
+put line 115.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 115.
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 118.
+(Font)              using `TS1/cmr/m/n' instead on input line 115.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 130.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 127.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
 [][]
  []
 
@@ -1228,7 +1228,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [3]
-Overfull \hbox (3.15622pt too wide) in paragraph at lines 234--237
+Overfull \hbox (3.15622pt too wide) in paragraph at lines 231--234
 [][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
@@ -1248,7 +1248,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 281--286
+Underfull \hbox (badness 10000) in paragraph at lines 278--283
 [][]
  []
 
