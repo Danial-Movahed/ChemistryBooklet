@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.23)  25 AUG 2023 16:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.17)  25 AUG 2023 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1009,14 +1009,23 @@ apping=tex-text;"
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
 (/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 
-Package tasks Warning: You've tried setting command `\NewTasks ' on line 54.
-(tasks)                However, command `\NewTasks ' is deprecated. Please use
-(tasks)                command `\NewTasksEnvironment ' instead. Refer to the
-(tasks)                manual for details.
+Package fontspec Info: Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
@@ -1030,18 +1039,18 @@ Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;script=arab;mappin
 g=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;script=arab;map
-ping=persian-tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
@@ -1054,49 +1063,38 @@ Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;mapping=persian-te
 x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;mapping=persian
--tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 58.
+'XB Niloofar' on input line 59.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
 \symnew@mathrm@font@digits=\mathgroup7
-(./fasl2.aux)
+ (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-2.
- (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+3.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1132,47 +1130,51 @@ LaTeX Font Info:    ... okay on input line 62.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \celsius on input line 62.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 62.
+\symgns@font=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
+t line 63.
+Package gensymb Info: Math companion symbols declared on input line 63.
+LaTeX Info: Redefining \degree on input line 63.
+LaTeX Info: Redefining \celsius on input line 63.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 63.
+LaTeX Info: Redefining \ohm on input line 63.
+Package gensymb Info: Using \textohm for \ohm on input line 63.
+Package gensymb Info: Using \textmu for \micro on input line 63.
 
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 62.
-Package gensymb Info: Using \Omega for \ohm on input line 62.
-
-Package gensymb Warning: Not defining \micro.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 88.
 
 [1
 
 ]
-Overfull \hbox (7.06474pt too wide) in paragraph at lines 113--114
-[][]\TU/XBNiloofar(0)/m/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
+Overfull \hbox (7.06474pt too wide) in paragraph at lines 114--115
+[][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
-le
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 115.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 115.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 115.
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 116.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 116.
+
+LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
+put line 116.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 116.
+
+LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead on input line 116.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 128.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
 [][]
  []
 
@@ -1200,26 +1202,9 @@ Missing character: There is no و ("648) in font cmmi8!
 Missing character: There is no ا ("627) in font cmmi8!
 Missing character: There is no ن ("646) in font cmmi8!
 Missing character: There is no د ("62F) in font cmmi8!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-Overfull \hbox (7.5238pt too wide) in paragraph at lines 231--234
-[][]\TU/XBNiloofar(0)/m/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
+[2] [3]
+Overfull \hbox (7.5238pt too wide) in paragraph at lines 232--235
+[][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
 
@@ -1229,30 +1214,17 @@ Missing character: There is no ا ("627) in font cmr8!
 Missing character: There is no د ("62F) in font cmr8!
 Missing character: There is no ل ("644) in font cmr8!
 Missing character: There is no ی ("6CC) in font cmr8!
+[4] [5] (./fasl2.aux)
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5] (./fasl2.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 22516 strings out of 478682
- 532326 string characters out of 5849665
+ 22532 strings out of 478673
+ 531661 string characters out of 5849397
  1862018 words of memory out of 5000000
- 42141 multiletter control sequences out of 15000+600000
- 515953 words of font info for 76 fonts, out of 8000000 for 9000
+ 42168 multiletter control sequences out of 15000+600000
+ 516863 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,18n,118p,1312b,1378s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
