@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.17)  25 AUG 2023 17:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.8.17)  25 AUG 2023 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1065,7 +1065,7 @@ x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 59.
+'XB Niloofar' on input line 60.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1073,28 +1073,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-4.
+6.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1104,17 +1104,17 @@ LaTeX Font Info:    ... okay on input line 64.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(60.0pt, 477.50787pt, 60.0pt)
-* v-part:(T,H,B)=(60.0pt, 725.04684pt, 60.0pt)
+* h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
+* v-part:(T,H,B)=(84.0pt, 760.04684pt, 1.0pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=477.50787pt
-* \textheight=725.04684pt
-* \oddsidemargin=-12.26999pt
-* \evensidemargin=-12.26999pt
-* \topmargin=-49.26999pt
-* \headheight=12.0pt
-* \headsep=25.0pt
+* \textwidth=481.87546pt
+* \textheight=760.04684pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-81.72273pt
+* \headheight=1.0pt
+* \headsep=28.45274pt
 * \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=35.0pt
@@ -1133,18 +1133,18 @@ LaTeX Font Info:    ... okay on input line 64.
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 64.
-Package gensymb Info: Math companion symbols declared on input line 64.
-LaTeX Info: Redefining \degree on input line 64.
-LaTeX Info: Redefining \celsius on input line 64.
+t line 66.
+Package gensymb Info: Math companion symbols declared on input line 66.
+LaTeX Info: Redefining \degree on input line 66.
+LaTeX Info: Redefining \celsius on input line 66.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 64.
-LaTeX Info: Redefining \ohm on input line 64.
-Package gensymb Info: Using \textohm for \ohm on input line 64.
-Package gensymb Info: Using \textmu for \micro on input line 64.
+erthousand on input line 66.
+LaTeX Info: Redefining \ohm on input line 66.
+Package gensymb Info: Using \textohm for \ohm on input line 66.
+Package gensymb Info: Using \textmu for \micro on input line 66.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
-(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 89.
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 90.
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -1157,32 +1157,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [1
 
 ]
-Overfull \hbox (7.06474pt too wide) in paragraph at lines 115--116
+Overfull \hbox (2.69716pt too wide) in paragraph at lines 116--117
 [][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 117.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 118.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 117.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 118.
 
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 117.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 117.
+put line 118.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 118.
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 117.
+(Font)              using `TS1/cmr/m/n' instead on input line 118.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 129.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 130.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
 [][]
  []
 
@@ -1228,7 +1228,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [3]
-Overfull \hbox (7.5238pt too wide) in paragraph at lines 233--236
+Overfull \hbox (3.15622pt too wide) in paragraph at lines 234--237
 [][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
@@ -1248,6 +1248,10 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 281--286
+[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1262,10 +1266,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22532 strings out of 478673
- 531662 string characters out of 5849397
+ 22538 strings out of 478673
+ 531787 string characters out of 5849397
  1862018 words of memory out of 5000000
- 42168 multiletter control sequences out of 15000+600000
+ 42174 multiletter control sequences out of 15000+600000
  516863 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,18n,118p,1312b,1378s stack positions out of 10000i,1000n,20000p,200000b,200000s
