@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.5)  15 OCT 2023 19:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.5)  15 OCT 2023 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,17 +618,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
-Package: pbox 2011/12/07 v1.2 Dynamic parboxes
-
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-\pb@xlen=\skip124
-)
-(/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
-Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
-
+(/usr/share/texmf-dist/tex/latex/tabularray/tabularray.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-02-22 L3 programming layer (loader) 
 
@@ -640,6 +630,108 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__pdf_backend_annotation_int=\count301
 \g__pdf_backend_link_int=\count302
 ))
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count303
+\l__tblr_c_int=\count304
+\l__tblr_r_int=\count305
+\l__tblr_d_dim=\dimen278
+\l__tblr_h_dim=\dimen279
+\l__tblr_o_dim=\dimen280
+\l__tblr_p_dim=\dimen281
+\l__tblr_q_dim=\dimen282
+\l__tblr_r_dim=\dimen283
+\l__tblr_s_dim=\dimen284
+\l__tblr_t_dim=\dimen285
+\l__tblr_v_dim=\dimen286
+\l__tblr_w_dim=\dimen287
+\l__tblr_a_box=\box89
+\l__tblr_b_box=\box90
+\l__tblr_c_box=\box91
+\l__tblr_d_box=\box92
+\g__tblr_table_count_int=\count306
+\c@rownum=\count307
+\c@colnum=\count308
+\c@rowcount=\count309
+\c@colcount=\count310
+\abovesep=\dimen288
+\belowsep=\dimen289
+\leftsep=\dimen290
+\rightsep=\dimen291
+\g_tblr_level_int=\count311
+\g__tblr_data_row_key_count_int=\count312
+\g__tblr_data_column_key_count_int=\count313
+\g__tblr_data_cell_key_count_int=\count314
+\g__tblr_array_int=\count315
+\l__tblr_key_count_int=\count316
+\l__tblr_key_quotient_int=\count317
+\l__tblr_key_quotient_two_int=\count318
+\l__tblr_key_remainder_int=\count319
+\g__tblr_data_str_value_count_int=\count320
+\rulewidth=\dimen292
+\l__tblr_strut_dp_dim=\dimen293
+\l__tblr_strut_ht_dim=\dimen294
+\g__tblr_cell_wd_dim=\dimen295
+\g__tblr_cell_ht_dim=\dimen296
+\g__tblr_cell_head_dim=\dimen297
+\g__tblr_cell_foot_dim=\dimen298
+\l__column_target_dim=\dimen299
+\l__tblr_caption_box=\box93
+\l__tblr_caption_left_box=\box94
+\l__tblr_row_head_box=\box95
+\l__tblr_row_foot_box=\box96
+\l__tblr_row_head_foot_dim=\dimen300
+\tablewidth=\dimen301
+\l__tblr_table_firsthead_box=\box97
+\l__tblr_table_middlehead_box=\box98
+\l__tblr_table_lasthead_box=\box99
+\l__tblr_table_firstfoot_box=\box100
+\l__tblr_table_middlefoot_box=\box101
+\l__tblr_table_lastfoot_box=\box102
+\l__tblr_remain_height_dim=\dimen302
+\l__tblr_long_from_int=\count321
+\l__tblr_long_to_int=\count322
+\l__tblr_curr_i_int=\count323
+\l__tblr_prev_i_int=\count324
+\l__tblr_table_page_int=\count325
+\l__tblr_table_head_box=\box103
+\l__tblr_table_foot_box=\box104
+\l__tblr_table_head_foot_dim=\dimen303
+\l__tblr_table_head_body_foot_dim=\dimen304
+\l__tblr_table_box=\box105
+\l__tblr_table_hlines_box=\box106
+\l__tblr_hline_box=\box107
+\l__tblr_row_box=\box108
+\l__tblr_col_o_wd_dim=\dimen305
+\l__tblr_col_b_wd_dim=\dimen306
+\l__tblr_hline_leftskip_dim=\dimen307
+\l__tblr_hline_rightskip_dim=\dimen308
+\l__tblr_row_ht_dim=\dimen309
+\l__tblr_row_dp_dim=\dimen310
+\l__tblr_row_abovesep_dim=\dimen311
+\l__tblr_row_belowsep_dim=\dimen312
+\l__tblr_row_vlines_box=\box109
+\l__tblr_vline_box=\box110
+\l__tblr_cell_box=\box111
+\l__row_upper_dim=\dimen313
+\l__row_lower_dim=\dimen314
+\l__row_vpace_dim=\dimen315
+\l__tblr_vline_aboveskip_dim=\dimen316
+\l__tblr_vline_belowskip_dim=\dimen317
+\l__tblr_cell_wd_dim=\dimen318
+\l__tblr_cell_ht_dim=\dimen319
+\l__tblr_diag_box=\box112
+)
+(/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip124
+)
+(/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
@@ -649,10 +741,10 @@ Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count303
-\g__chemgreek_tmpa_int=\count304
+\l__chemgreek_tmpa_int=\count326
+\g__chemgreek_tmpa_int=\count327
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count305
+\l__mhchem_ce_distanceFromLastComma_int=\count328
 \__mhchem_arrow_extPgfLength_skip=\skip125
 \mhchem@minispace@tmp=\skip126
 \mhchem@minibackspace@tmp=\skip127
@@ -663,50 +755,50 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@smallbondwidth=\skip132
 \mhchem@bondtmp@minussidebearingleft=\skip133
 \mhchem@bondtmp@minussidebearingright=\skip134
-\l__mhchem_option_version_int=\count306
-\mhchem@option@minusmathsidebearingleft=\dimen278
-\mhchem@option@minusmathsidebearingright=\dimen279
-\mhchem@option@minustextsidebearingleft=\dimen280
-\mhchem@option@minustextsidebearingright=\dimen281
+\l__mhchem_option_version_int=\count329
+\mhchem@option@minusmathsidebearingleft=\dimen320
+\mhchem@option@minusmathsidebearingright=\dimen321
+\mhchem@option@minustextsidebearingleft=\dimen322
+\mhchem@option@minustextsidebearingright=\dimen323
 )
 (/usr/share/texmf-dist/tex/latex/tasks/tasks.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen282
-\l__xtemplate_tmp_int=\count307
+\l__xtemplate_tmp_dim=\dimen324
+\l__xtemplate_tmp_int=\count330
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip135
 )
 Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
-\g__tasks_total_items_int=\count308
-\l__tasks_columns_int=\count309
-\g__tasks_rows_int=\count310
-\g__tasks_current_col_num_int=\count311
-\g__tasks_current_row_num_int=\count312
-\l__tasks_item_columns_int=\count313
-\g__tasks_env_int=\count314
-\l__tasks_start_int=\count315
-\l__tasks_item_indent_dim=\dimen283
-\l__tasks_item_default_indent_dim=\dimen284
-\l__tasks_item_width_dim=\dimen285
-\l__tasks_label_width_dim=\dimen286
-\l__tasks_label_default_width_dim=\dimen287
-\l__tasks_label_offset_dim=\dimen288
-\l__tasks_label_default_offset_dim=\dimen289
-\l__tasks_column_sep_dim=\dimen290
-\l__tasks_correction_dim=\dimen291
-\l__tasks_full_width_dim=\dimen292
+\g__tasks_total_items_int=\count331
+\l__tasks_columns_int=\count332
+\g__tasks_rows_int=\count333
+\g__tasks_current_col_num_int=\count334
+\g__tasks_current_row_num_int=\count335
+\l__tasks_item_columns_int=\count336
+\g__tasks_env_int=\count337
+\l__tasks_start_int=\count338
+\l__tasks_item_indent_dim=\dimen325
+\l__tasks_item_default_indent_dim=\dimen326
+\l__tasks_item_width_dim=\dimen327
+\l__tasks_label_width_dim=\dimen328
+\l__tasks_label_default_width_dim=\dimen329
+\l__tasks_label_offset_dim=\dimen330
+\l__tasks_label_default_offset_dim=\dimen331
+\l__tasks_column_sep_dim=\dimen332
+\l__tasks_correction_dim=\dimen333
+\l__tasks_full_width_dim=\dimen334
 \l__tasks_after_item_skip=\skip136
 \l__tasks_custom_after_item_skip=\skip137
 \l__tasks_before_list_skip=\skip138
 \l__tasks_after_list_skip=\skip139
-\l__tasks_item_coffin=\box89
-\l__tasks_label_coffin=\box90
-\c@task=\count316
-\l__tasks_tmpa_int=\count317
-\l__tasks_tmpb_int=\count318
-\l__tasks_tmpa_coffin=\box91
-\l__tasks_tmpa_box=\box92
+\l__tasks_item_coffin=\box113
+\l__tasks_label_coffin=\box114
+\c@task=\count339
+\l__tasks_tmpa_int=\count340
+\l__tasks_tmpb_int=\count341
+\l__tasks_tmpa_coffin=\box115
+\l__tasks_tmpa_box=\box116
 
 Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (xtemplate)             line 450.
@@ -715,51 +807,27 @@ Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (/usr/share/texmf-dist/tex/latex/tasks/tasks.cfg))
 (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count319
-\mult@box=\box93
-\multicol@leftmargin=\dimen293
-\c@unbalance=\count320
-\c@collectmore=\count321
-\doublecol@number=\count322
-\multicoltolerance=\count323
-\multicolpretolerance=\count324
-\full@width=\dimen294
-\page@free=\dimen295
-\premulticols=\dimen296
-\postmulticols=\dimen297
+\c@tracingmulticols=\count342
+\mult@box=\box117
+\multicol@leftmargin=\dimen335
+\c@unbalance=\count343
+\c@collectmore=\count344
+\doublecol@number=\count345
+\multicoltolerance=\count346
+\multicolpretolerance=\count347
+\full@width=\dimen336
+\page@free=\dimen337
+\premulticols=\dimen338
+\postmulticols=\dimen339
 \multicolsep=\skip140
 \multicolbaselineskip=\skip141
-\partial@page=\box94
-\last@line=\box95
-\maxbalancingoverflow=\dimen298
-\mult@rightbox=\box96
-\mult@grightbox=\box97
-\mult@firstbox=\box98
-\mult@gfirstbox=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\@tempa=\box104
-\@tempa=\box105
-\@tempa=\box106
-\@tempa=\box107
-\@tempa=\box108
-\@tempa=\box109
-\@tempa=\box110
-\@tempa=\box111
-\@tempa=\box112
-\@tempa=\box113
-\@tempa=\box114
-\@tempa=\box115
-\@tempa=\box116
-\@tempa=\box117
-\@tempa=\box118
-\@tempa=\box119
-\@tempa=\box120
-\@tempa=\box121
-\@tempa=\box122
-\@tempa=\box123
+\partial@page=\box118
+\last@line=\box119
+\maxbalancingoverflow=\dimen340
+\mult@rightbox=\box120
+\mult@grightbox=\box121
+\mult@firstbox=\box122
+\mult@gfirstbox=\box123
 \@tempa=\box124
 \@tempa=\box125
 \@tempa=\box126
@@ -772,15 +840,39 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box133
 \@tempa=\box134
 \@tempa=\box135
-\c@minrows=\count325
-\c@columnbadness=\count326
-\c@finalcolumnbadness=\count327
-\last@try=\dimen299
-\multicolovershoot=\dimen300
-\multicolundershoot=\dimen301
-\mult@nat@firstbox=\box136
-\colbreak@box=\box137
-\mc@col@check@num=\count328
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\@tempa=\box141
+\@tempa=\box142
+\@tempa=\box143
+\@tempa=\box144
+\@tempa=\box145
+\@tempa=\box146
+\@tempa=\box147
+\@tempa=\box148
+\@tempa=\box149
+\@tempa=\box150
+\@tempa=\box151
+\@tempa=\box152
+\@tempa=\box153
+\@tempa=\box154
+\@tempa=\box155
+\@tempa=\box156
+\@tempa=\box157
+\@tempa=\box158
+\@tempa=\box159
+\c@minrows=\count348
+\c@columnbadness=\count349
+\c@finalcolumnbadness=\count350
+\last@try=\dimen341
+\multicolovershoot=\dimen342
+\multicolundershoot=\dimen343
+\mult@nat@firstbox=\box160
+\colbreak@box=\box161
+\mc@col@check@num=\count351
 )
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.tex
@@ -789,24 +881,24 @@ Package: simplekv 2022/10/01 v0.2a Simple keyval package (CT)
 )
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen302
-\pgfarrowlength=\dimen303
-\pgfarrowwidth=\dimen304
-\pgfarrowlinewidth=\dimen305
+\pgfarrowinset=\dimen344
+\pgfarrowlength=\dimen345
+\pgfarrowwidth=\dimen346
+\pgfarrowlinewidth=\dimen347
 )
-\CF_cnt_atomgroup=\count329
-\CF_cnt_group=\count330
-\CF_cnt_atom=\count331
-\CF_cnt_cycle=\count332
-\CF_cnt_cyclebonds=\count333
-\CF_cnt_compound=\count334
-\CF_dim=\dimen306
-\CF_arrowsize=\dimen307
-\CF_zero=\dimen308
-\CF_box=\box138
-\CF_boxstuff=\box139
-\CF_testbox=\box140
-\CF_chargebox=\box141
+\CF_cnt_atomgroup=\count352
+\CF_cnt_group=\count353
+\CF_cnt_atom=\count354
+\CF_cnt_cycle=\count355
+\CF_cnt_cyclebonds=\count356
+\CF_cnt_compound=\count357
+\CF_dim=\dimen348
+\CF_arrowsize=\dimen349
+\CF_zero=\dimen350
+\CF_box=\box162
+\CF_boxstuff=\box163
+\CF_testbox=\box164
+\CF_chargebox=\box165
 \CF_substtoks=\toks36
 )
 Package: chemfig 2023/02/18 v1.6d Draw molecule with an easy syntax (CT)
@@ -820,20 +912,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count335
-\l__fontspec_language_int=\count336
-\l__fontspec_strnum_int=\count337
-\l__fontspec_tmp_int=\count338
-\l__fontspec_tmpa_int=\count339
-\l__fontspec_tmpb_int=\count340
-\l__fontspec_tmpc_int=\count341
-\l__fontspec_em_int=\count342
-\l__fontspec_emdef_int=\count343
-\l__fontspec_strong_int=\count344
-\l__fontspec_strongdef_int=\count345
-\l__fontspec_tmpa_dim=\dimen309
-\l__fontspec_tmpb_dim=\dimen310
-\l__fontspec_tmpc_dim=\dimen311
+\l__fontspec_script_int=\count358
+\l__fontspec_language_int=\count359
+\l__fontspec_strnum_int=\count360
+\l__fontspec_tmp_int=\count361
+\l__fontspec_tmpa_int=\count362
+\l__fontspec_tmpb_int=\count363
+\l__fontspec_tmpc_int=\count364
+\l__fontspec_em_int=\count365
+\l__fontspec_emdef_int=\count366
+\l__fontspec_strong_int=\count367
+\l__fontspec_strongdef_int=\count368
+\l__fontspec_tmpa_dim=\dimen351
+\l__fontspec_tmpb_dim=\dimen352
+\l__fontspec_tmpc_dim=\dimen353
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -841,43 +933,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count346
-\XePersian@y=\count347
-\XePersian@m=\count348
-\XePersian@d=\count349
-\XePersian@latini=\count350
-\XePersian@persiani=\count351
-\XePersian@latinii=\count352
-\XePersian@persianii=\count353
-\XePersian@latiniii=\count354
-\XePersian@persianiii=\count355
-\XePersian@latiniv=\count356
-\XePersian@persianiv=\count357
-\XePersian@latinv=\count358
-\XePersian@persianv=\count359
-\XePersian@latinvi=\count360
-\XePersian@persianvi=\count361
-\XePersian@latinvii=\count362
-\XePersian@persianvii=\count363
-\XePersian@latinviii=\count364
-\XePersian@persianviii=\count365
-\XePersian@latinix=\count366
-\XePersian@persianix=\count367
-\XePersian@latinx=\count368
-\XePersian@persianx=\count369
-\XePersian@latinxi=\count370
-\XePersian@persianxi=\count371
-\XePersian@latinxii=\count372
-\XePersian@persianxii=\count373
-\XePersian@persianxiii=\count374
-\XePersian@temp=\count375
-\XePersian@temptwo=\count376
-\XePersian@tempthree=\count377
-\XePersian@yModHundred=\count378
-\XePersian@thirtytwo=\count379
-\XePersian@dn=\count380
-\XePersian@sn=\count381
-\XePersian@mminusone=\count382
+\XePersian@i=\count369
+\XePersian@y=\count370
+\XePersian@m=\count371
+\XePersian@d=\count372
+\XePersian@latini=\count373
+\XePersian@persiani=\count374
+\XePersian@latinii=\count375
+\XePersian@persianii=\count376
+\XePersian@latiniii=\count377
+\XePersian@persianiii=\count378
+\XePersian@latiniv=\count379
+\XePersian@persianiv=\count380
+\XePersian@latinv=\count381
+\XePersian@persianv=\count382
+\XePersian@latinvi=\count383
+\XePersian@persianvi=\count384
+\XePersian@latinvii=\count385
+\XePersian@persianvii=\count386
+\XePersian@latinviii=\count387
+\XePersian@persianviii=\count388
+\XePersian@latinix=\count389
+\XePersian@persianix=\count390
+\XePersian@latinx=\count391
+\XePersian@persianx=\count392
+\XePersian@latinxi=\count393
+\XePersian@persianxi=\count394
+\XePersian@latinxii=\count395
+\XePersian@persianxii=\count396
+\XePersian@persianxiii=\count397
+\XePersian@temp=\count398
+\XePersian@temptwo=\count399
+\XePersian@tempthree=\count400
+\XePersian@yModHundred=\count401
+\XePersian@thirtytwo=\count402
+\XePersian@dn=\count403
+\XePersian@sn=\count404
+\XePersian@mminusone=\count405
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -918,17 +1010,17 @@ n plain TeX and LaTeX
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
 \@bidi@envbody=\toks37
 \@bidi@emptytoks=\toks38
-\bidi@poscount=\count383
-\bidi@tempcountb=\count384
+\bidi@poscount=\count406
+\bidi@tempcountb=\count407
 \bidi@temptoksa=\toks39
 \bidi@temptoksb=\toks40
-\bidi@dummies=\count385
+\bidi@dummies=\count408
 \bidi@are@these@correct=\toks41
 \bidi@toks@lista=\toks42
 \bidi@toks@listb=\toks43
-\bidi@stack@length=\count386
+\bidi@stack@length=\count409
 \bidi@empty@stack=\toks44
-\bidi@looprepeat@depth=\count387
+\bidi@looprepeat@depth=\count410
 )
 (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -969,7 +1061,7 @@ Package zref Info: New property: page on input line 769.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count388
+\c@abspage=\count411
 Package zref Info: New property: abspage on input line 65.
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -980,7 +1072,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks45
 \XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count389
+\XKV@depth=\count412
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -989,12 +1081,12 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks47
-\bidi@column@check@number=\count390
+\bidi@column@check@number=\count413
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count391
+\c@footdir@label=\count414
 \footdir@toks=\toks48
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
@@ -1048,7 +1140,7 @@ de.tex file for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count392
+\bidi@digits=\count415
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1077,9 +1169,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count393
-\xepersian@ilg=\dimen312
-\xepersian@strutilg=\dimen313
+\xepersian@tcl=\count416
+\xepersian@ilg=\dimen354
+\xepersian@strutilg=\dimen355
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -1203,7 +1295,7 @@ x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 60.
+'XB Niloofar' on input line 61.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1211,28 +1303,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
-4.
+5.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1268,24 +1360,29 @@ LaTeX Font Info:    ... okay on input line 84.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/share/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 
-Package chemgreek Info: Activating mapping `fontspec' on line 84.
+)
+
+Package chemgreek Info: Activating mapping `fontspec' on line 85.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 84.
-Package gensymb Info: Math companion symbols declared on input line 84.
-LaTeX Info: Redefining \degree on input line 84.
-LaTeX Info: Redefining \celsius on input line 84.
+t line 85.
+Package gensymb Info: Math companion symbols declared on input line 85.
+LaTeX Info: Redefining \degree on input line 85.
+LaTeX Info: Redefining \celsius on input line 85.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 84.
-LaTeX Info: Redefining \ohm on input line 84.
-Package gensymb Info: Using \textohm for \ohm on input line 84.
-Package gensymb Info: Using \textmu for \micro on input line 84.
+erthousand on input line 85.
+LaTeX Info: Redefining \ohm on input line 85.
+Package gensymb Info: Using \textohm for \ohm on input line 85.
+Package gensymb Info: Using \textmu for \micro on input line 85.
+
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
-(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 105.
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 106.
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -1298,32 +1395,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [1
 
 ]
-Overfull \hbox (2.69716pt too wide) in paragraph at lines 131--132
+Overfull \hbox (2.69716pt too wide) in paragraph at lines 132--133
 [][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 133.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 134.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 133.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 134.
 
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 133.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 133.
+put line 134.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 134.
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 133.
+(Font)              using `TS1/cmr/m/n' instead on input line 134.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 145.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 146.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
 [][]
  []
 
@@ -1369,7 +1466,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [3]
-Overfull \hbox (3.15622pt too wide) in paragraph at lines 249--252
+Overfull \hbox (3.15622pt too wide) in paragraph at lines 250--253
 [][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
@@ -1383,32 +1480,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 296--315
+Underfull \hbox (badness 10000) in paragraph at lines 297--316
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--315
+Underfull \hbox (badness 10000) in paragraph at lines 297--316
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--315
+Underfull \hbox (badness 10000) in paragraph at lines 297--316
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--315
+Underfull \hbox (badness 10000) in paragraph at lines 297--316
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--315
+Underfull \hbox (badness 10000) in paragraph at lines 297--316
 [][]
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 348--358
+Underfull \hbox (badness 5878) in paragraph at lines 349--359
 []\TU/XBNiloofar(1)/b/n/12 ۲\TU/XBNiloofar(0)/b/n/12 - فرآیند گرماگیر: $[][]\OT
 1/cmr/m/n/12 H[][]O [][][]s[][] [] [][][]H[][]O [][][]l[]$[]
  []
@@ -1422,12 +1519,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 382--399
+Underfull \hbox (badness 10000) in paragraph at lines 383--400
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--399
+Underfull \hbox (badness 10000) in paragraph at lines 383--400
 [][]
  []
 
@@ -1440,37 +1537,37 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--450
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
@@ -1483,7 +1580,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [7]
-Overfull \hbox (18.5977pt too wide) in paragraph at lines 512--538
+Overfull \hbox (18.5977pt too wide) in paragraph at lines 513--539
 []\TU/XBNiloofar(0)/b/n/12 مقدار عددی $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H$ \
 TU/XBNiloofar(0)/b/n/12 در یک فرآیند، []آن را نشان می‌دهد، اما علامت + یا -، به
  ترتیب، [][]و [][]بودن[]
@@ -1506,12 +1603,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 560--568
+Underfull \hbox (badness 10000) in paragraph at lines 561--569
 [][]
  []
 
 
-Overfull \hbox (0.77243pt too wide) in paragraph at lines 595--610
+Overfull \hbox (0.77243pt too wide) in paragraph at lines 596--611
 []\TU/XBNiloofar(0)/b/n/12 هنگام «تشکیل» پیوند،‌ مقداری انرژی []می‌شود ( با علا
 مت $\OMS/cmsy/m/n/12 ^^M$ \TU/XBNiloofar(0)/b/n/12 گزارش می‌شود).(H $\OT1/cmr/m
 /n/12 ^^A$\TU/XBNiloofar(0)/b/n/12 واکنش، []این انرژی‌های[]
@@ -1526,7 +1623,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [9]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 626--635
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 627--636
 [][][]
  []
 
@@ -1539,7 +1636,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [10]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 651--663
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 652--664
 [][][]
  []
 
@@ -1552,19 +1649,27 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [11]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 672--678
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 673--679
 [][][]
  []
 
 
-Overfull \hbox (34.29736pt too wide) in paragraph at lines 679--681
+Overfull \hbox (34.29736pt too wide) in paragraph at lines 680--682
 [][]\TU/XBNiloofar(0)/b/n/12 خود را بیازمایید صفحه \TU/XBNiloofar(1)/b/n/12 ۷۱\
 TU/XBNiloofar(0)/b/n/12 : $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/
 m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )
  | ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OM
-L/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )$ []
+L/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )$[]
  []
 
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1579,11 +1684,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24927 strings out of 478673
- 581890 string characters out of 5849398
+ 27182 strings out of 478673
+ 638326 string characters out of 5849398
  1863018 words of memory out of 5000000
- 44522 multiletter control sequences out of 15000+600000
- 516879 words of font info for 68 fonts, out of 8000000 for 9000
+ 46769 multiletter control sequences out of 15000+600000
+ 517875 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,18n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
