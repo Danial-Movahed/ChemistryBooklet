@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.1)  15 OCT 2023 15:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.5)  15 OCT 2023 17:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,6 +618,14 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip124
+)
 (/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
 
@@ -645,37 +653,29 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \g__chemgreek_tmpa_int=\count304
 )
 \l__mhchem_ce_distanceFromLastComma_int=\count305
-\__mhchem_arrow_extPgfLength_skip=\skip124
-\mhchem@minispace@tmp=\skip125
-\mhchem@minibackspace@tmp=\skip126
-\mhchem@bondwidth=\skip127
-\mhchem@bondheight=\skip128
-\mhchem@smallbondwidth@tmpA=\skip129
-\mhchem@smallbondwidth@tmpB=\skip130
-\mhchem@smallbondwidth=\skip131
-\mhchem@bondtmp@minussidebearingleft=\skip132
-\mhchem@bondtmp@minussidebearingright=\skip133
+\__mhchem_arrow_extPgfLength_skip=\skip125
+\mhchem@minispace@tmp=\skip126
+\mhchem@minibackspace@tmp=\skip127
+\mhchem@bondwidth=\skip128
+\mhchem@bondheight=\skip129
+\mhchem@smallbondwidth@tmpA=\skip130
+\mhchem@smallbondwidth@tmpB=\skip131
+\mhchem@smallbondwidth=\skip132
+\mhchem@bondtmp@minussidebearingleft=\skip133
+\mhchem@bondtmp@minussidebearingright=\skip134
 \l__mhchem_option_version_int=\count306
 \mhchem@option@minusmathsidebearingleft=\dimen278
 \mhchem@option@minusmathsidebearingright=\dimen279
 \mhchem@option@minustextsidebearingleft=\dimen280
 \mhchem@option@minustextsidebearingright=\dimen281
-
-
-Package mhchem Warning: You did not specify a 'version' option for the mhchem
-(mhchem)                package. Please write \usepackage[version=4]{mhchem}
-(mhchem)                in your preamble (or any lower number for
-(mhchem)                compatibility mode), because you might get slightly
-(mhchem)                different output with the same input in future versions
-.
-
-) (/usr/share/texmf-dist/tex/latex/tasks/tasks.sty
+)
+(/usr/share/texmf-dist/tex/latex/tasks/tasks.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen282
 \l__xtemplate_tmp_int=\count307
 \l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip134
+\l__xtemplate_tmp_skip=\skip135
 )
 Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
 \g__tasks_total_items_int=\count308
@@ -696,10 +696,10 @@ Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
 \l__tasks_column_sep_dim=\dimen290
 \l__tasks_correction_dim=\dimen291
 \l__tasks_full_width_dim=\dimen292
-\l__tasks_after_item_skip=\skip135
-\l__tasks_custom_after_item_skip=\skip136
-\l__tasks_before_list_skip=\skip137
-\l__tasks_after_list_skip=\skip138
+\l__tasks_after_item_skip=\skip136
+\l__tasks_custom_after_item_skip=\skip137
+\l__tasks_before_list_skip=\skip138
+\l__tasks_after_list_skip=\skip139
 \l__tasks_item_coffin=\box89
 \l__tasks_label_coffin=\box90
 \c@task=\count316
@@ -727,8 +727,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \page@free=\dimen295
 \premulticols=\dimen296
 \postmulticols=\dimen297
-\multicolsep=\skip139
-\multicolbaselineskip=\skip140
+\multicolsep=\skip140
+\multicolbaselineskip=\skip141
 \partial@page=\box94
 \last@line=\box95
 \maxbalancingoverflow=\dimen298
@@ -1154,6 +1154,18 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 
+Package fontspec Info: Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
+
+
 Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
 (fontspec)             Niloofar' with options
 (fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX].
@@ -1165,18 +1177,18 @@ Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;script=arab;mappin
 g=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;script=arab;map
-ping=persian-tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
 
 
 Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
@@ -1189,21 +1201,9 @@ Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;mapping=persian-te
 x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;mapping=persian
--tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 64.
+'XB Niloofar' on input line 56.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1211,28 +1211,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+0.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1269,20 +1269,24 @@ LaTeX Font Info:    ... okay on input line 72.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 72.
+Package chemgreek Info: Activating mapping `fontspec' on line 80.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 72.
-Package gensymb Info: Math companion symbols declared on input line 72.
-LaTeX Info: Redefining \degree on input line 72.
-LaTeX Info: Redefining \celsius on input line 72.
+t line 80.
+Package gensymb Info: Math companion symbols declared on input line 80.
+LaTeX Info: Redefining \degree on input line 80.
+LaTeX Info: Redefining \celsius on input line 80.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 72.
-LaTeX Info: Redefining \ohm on input line 72.
-Package gensymb Info: Using \textohm for \ohm on input line 72.
-Package gensymb Info: Using \textmu for \micro on input line 72.
+erthousand on input line 80.
+LaTeX Info: Redefining \ohm on input line 80.
+Package gensymb Info: Using \textohm for \ohm on input line 80.
+Package gensymb Info: Using \textmu for \micro on input line 80.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 101.
+
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1294,32 +1298,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [1
 
 ]
-Overfull \hbox (2.69716pt too wide) in paragraph at lines 119--120
-[][]\TU/XBNiloofar(0)/m/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
+Overfull \hbox (2.69716pt too wide) in paragraph at lines 127--128
+[][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
-le
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 121.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 121.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 121.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 129.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 129.
+
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 121.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 121.
+put line 129.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 129.
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 121.
+(Font)              using `TS1/cmr/m/n' instead on input line 129.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--156
+LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 141.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--164
 [][]
  []
 
@@ -1365,8 +1369,8 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [3]
-Overfull \hbox (3.15622pt too wide) in paragraph at lines 237--240
-[][]\TU/XBNiloofar(0)/m/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
+Overfull \hbox (3.15622pt too wide) in paragraph at lines 245--248
+[][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
 
@@ -1379,33 +1383,33 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 284--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--311
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--311
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--311
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--311
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--303
+Underfull \hbox (badness 10000) in paragraph at lines 292--311
 [][]
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 336--346
-[]\TU/XBNiloofar(1)/m/n/12 ۲\TU/XBNiloofar(0)/m/n/12 - فرآیند گرماگیر: $[][]\OT
+Underfull \hbox (badness 5878) in paragraph at lines 344--354
+[]\TU/XBNiloofar(1)/b/n/12 ۲\TU/XBNiloofar(0)/b/n/12 - فرآیند گرماگیر: $[][]\OT
 1/cmr/m/n/12 H[][]O [][][]s[][] [] [][][]H[][]O [][][]l[]$[]
  []
 
@@ -1418,12 +1422,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 370--387
+Underfull \hbox (badness 10000) in paragraph at lines 378--395
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--387
+Underfull \hbox (badness 10000) in paragraph at lines 378--395
 [][]
  []
 
@@ -1436,37 +1440,37 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--438
+Underfull \hbox (badness 10000) in paragraph at lines 436--446
 [][]
  []
 
@@ -1479,9 +1483,9 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [7]
-Overfull \hbox (18.5977pt too wide) in paragraph at lines 500--526
-[]\TU/XBNiloofar(0)/m/n/12 مقدار عددی $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H$ \
-TU/XBNiloofar(0)/m/n/12 در یک فرآیند، []آن را نشان می‌دهد، اما علامت + یا -، به
+Overfull \hbox (18.5977pt too wide) in paragraph at lines 508--534
+[]\TU/XBNiloofar(0)/b/n/12 مقدار عددی $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H$ \
+TU/XBNiloofar(0)/b/n/12 در یک فرآیند، []آن را نشان می‌دهد، اما علامت + یا -، به
  ترتیب، [][]و [][]بودن[]
  []
 
@@ -1502,15 +1506,15 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 548--556
+Underfull \hbox (badness 10000) in paragraph at lines 556--564
 [][]
  []
 
 
-Overfull \hbox (0.77243pt too wide) in paragraph at lines 583--598
-[]\TU/XBNiloofar(0)/m/n/12 هنگام «تشکیل» پیوند،‌ مقداری انرژی []می‌شود ( با علا
-مت $\OMS/cmsy/m/n/12 ^^M$ \TU/XBNiloofar(0)/m/n/12 گزارش می‌شود).(H $\OT1/cmr/m
-/n/12 ^^A$\TU/XBNiloofar(0)/m/n/12 واکنش، []این انرژی‌های[]
+Overfull \hbox (0.77243pt too wide) in paragraph at lines 591--606
+[]\TU/XBNiloofar(0)/b/n/12 هنگام «تشکیل» پیوند،‌ مقداری انرژی []می‌شود ( با علا
+مت $\OMS/cmsy/m/n/12 ^^M$ \TU/XBNiloofar(0)/b/n/12 گزارش می‌شود).(H $\OT1/cmr/m
+/n/12 ^^A$\TU/XBNiloofar(0)/b/n/12 واکنش، []این انرژی‌های[]
  []
 
 
@@ -1522,6 +1526,10 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [9]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 622--633
+[][] []
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1536,11 +1544,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24824 strings out of 478673
- 581102 string characters out of 5849398
+ 24884 strings out of 478673
+ 580882 string characters out of 5849398
  1863018 words of memory out of 5000000
- 44412 multiletter control sequences out of 15000+600000
- 516983 words of font info for 81 fonts, out of 8000000 for 9000
+ 44479 multiletter control sequences out of 15000+600000
+ 516879 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,18n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
 

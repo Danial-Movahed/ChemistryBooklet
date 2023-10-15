@@ -5,7 +5,8 @@
 \usetikzlibrary{shadows.blur}
 \usepackage{enumitem}
 \usepackage{amsmath}
-\usepackage{mhchem}
+\usepackage{pbox}
+\usepackage[version=4]{mhchem}
 \usepackage{tasks}
 \usepackage{multicol}
 \usepackage{chemfig}
@@ -46,18 +47,9 @@
 	{\begin{enumerate}\setlength\itemsep{-0.2em}}
 	{\end{enumerate}}
 	
-
 \newenvironment{iit}
 	{\begin{itemize}\setlength\itemsep{-0.5em}}
 	{\end{itemize}}
-	
-\newcommand{\ff}{\rule{1cm}{0.15mm}\;}
-\newcommand{\fb}{\rule{2cm}{0.15mm}\;}
-\newcommand{\fs}{\rule{1cm}{0.15mm}}
-\newcommand{\fsm}{{\rule{0.5cm}{0.15mm}\;}}
-\newcommand{\lin}{\vspace{4pt}\hrule\vspace{4pt}}
-\newcommand\gototask[1]{\addtocounter{task}{\numexpr#1-\value{task}\relax}}
-\NewTasksEnvironment[label=\arabic*.,label-format=\bfseries,label-width=4ex]{answers}[\a]
 
 \settextfont{XB Niloofar}
 \setdigitfont{XB Niloofar}
@@ -68,6 +60,22 @@
 \setlength{\headheight}{1pt}
 \setlength{\columnseprule}{1pt}
 \setlength{\columnsep}{0.5cm}
+
+\newcommand{\ff}{\rule{1cm}{0.15mm}\;}
+\newcommand{\fb}{\rule{2cm}{0.15mm}\;}
+\newcommand{\fs}{\rule{1cm}{0.15mm}}
+\newcommand{\fsm}{{\rule{0.5cm}{0.15mm}\;}}
+\newcommand{\lin}{\vspace{4pt}\hrule\vspace{4pt}}
+\newcommand\gototask[1]{\addtocounter{task}{\numexpr#1-\value{task}\relax}}
+\NewTasksEnvironment[label=\arabic*.,label-format=\bfseries,label-width=4ex]{answers}[\a]
+\def\extra{\rule{1ex}{0ex}}
+\makeatletter
+\newcommand\censor{\@ifstar{\@cenmath}{\@centext}}
+\newcommand\@cenmath[1]{%
+	\protect\rule[-.3ex]{\widthofpbox{\extra$#1$}}{0.1ex}}
+\newcommand\@centext[1]{%
+	\protect\rule[-.3ex]{\widthofpbox{\extra#1\extra\extra}}{0.1ex}}
+\makeatother
 
 \begin{document}
 	%page 1
@@ -615,7 +623,13 @@ H $\Delta$ واکنش: [مجموع آنتالپی‌های پیوند\fb]-[مج�
 نتیجه: این دو ترکیب، \ff \ff ( هم \ff ) هستند.\\
 ب) $\frac{\text{بله}}{\text{خیر}}$، چون ساختار آن‌ها یکسان \ff.\\
 پ) $\frac{\text{بله}}{\text{خیر}}$، چون تفاوت در \ff، موجب تفاوت در \ff از جمله سطح انرژی است.\\
-\fbox{محتوای انرژی یک ترکیب، در}
+\noindent\fbox{%
+	\parbox{\textwidth}{%
+ محتوای انرژی یک ترکیب، در \underline{دما} و \underline{فشار} ثابت، علاوه بر «نوع» و «تعداد» اتم‌ها به نحوه\\
+ \censor{سلام}
+	}%
+}
+
 \end{document}
 
 % UNFINSH THINGS:
