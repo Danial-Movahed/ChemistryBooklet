@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.5)  15 OCT 2023 17:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.5)  15 OCT 2023 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1203,7 +1203,7 @@ x-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 56.
+'XB Niloofar' on input line 60.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1211,28 +1211,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
-0.
+4.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1269,23 +1269,23 @@ LaTeX Font Info:    ... okay on input line 80.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Package chemgreek Info: Activating mapping `fontspec' on line 80.
+Package chemgreek Info: Activating mapping `fontspec' on line 84.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 80.
-Package gensymb Info: Math companion symbols declared on input line 80.
-LaTeX Info: Redefining \degree on input line 80.
-LaTeX Info: Redefining \celsius on input line 80.
+t line 84.
+Package gensymb Info: Math companion symbols declared on input line 84.
+LaTeX Info: Redefining \degree on input line 84.
+LaTeX Info: Redefining \celsius on input line 84.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 80.
-LaTeX Info: Redefining \ohm on input line 80.
-Package gensymb Info: Using \textohm for \ohm on input line 80.
-Package gensymb Info: Using \textmu for \micro on input line 80.
+erthousand on input line 84.
+LaTeX Info: Redefining \ohm on input line 84.
+Package gensymb Info: Using \textohm for \ohm on input line 84.
+Package gensymb Info: Using \textmu for \micro on input line 84.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
-(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 101.
+(Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 105.
 
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
@@ -1298,32 +1298,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 [1
 
 ]
-Overfull \hbox (2.69716pt too wide) in paragraph at lines 127--128
+Overfull \hbox (2.69716pt too wide) in paragraph at lines 131--132
 [][]\TU/XBNiloofar(0)/b/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
 ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/bx/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 129.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 133.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/m/it' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 129.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 133.
 
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 129.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 129.
+put line 133.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 133.
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 129.
+(Font)              using `TS1/cmr/m/n' instead on input line 133.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(1)/b/n' undefined
-(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 141.
+(Font)              using `TU/XBNiloofar(1)/m/n' instead on input line 145.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--164
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
 [][]
  []
 
@@ -1369,7 +1369,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [3]
-Overfull \hbox (3.15622pt too wide) in paragraph at lines 245--248
+Overfull \hbox (3.15622pt too wide) in paragraph at lines 249--252
 [][]\TU/XBNiloofar(0)/b/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
 موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
  []
@@ -1383,32 +1383,32 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 292--311
+Underfull \hbox (badness 10000) in paragraph at lines 296--315
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--311
+Underfull \hbox (badness 10000) in paragraph at lines 296--315
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--311
+Underfull \hbox (badness 10000) in paragraph at lines 296--315
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--311
+Underfull \hbox (badness 10000) in paragraph at lines 296--315
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--311
+Underfull \hbox (badness 10000) in paragraph at lines 296--315
 [][]
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 344--354
+Underfull \hbox (badness 5878) in paragraph at lines 348--358
 []\TU/XBNiloofar(1)/b/n/12 ۲\TU/XBNiloofar(0)/b/n/12 - فرآیند گرماگیر: $[][]\OT
 1/cmr/m/n/12 H[][]O [][][]s[][] [] [][][]H[][]O [][][]l[]$[]
  []
@@ -1422,12 +1422,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 378--395
+Underfull \hbox (badness 10000) in paragraph at lines 382--399
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--395
+Underfull \hbox (badness 10000) in paragraph at lines 382--399
 [][]
  []
 
@@ -1440,37 +1440,37 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--446
+Underfull \hbox (badness 10000) in paragraph at lines 440--450
 [][]
  []
 
@@ -1483,7 +1483,7 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [7]
-Overfull \hbox (18.5977pt too wide) in paragraph at lines 508--534
+Overfull \hbox (18.5977pt too wide) in paragraph at lines 512--538
 []\TU/XBNiloofar(0)/b/n/12 مقدار عددی $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H$ \
 TU/XBNiloofar(0)/b/n/12 در یک فرآیند، []آن را نشان می‌دهد، اما علامت + یا -، به
  ترتیب، [][]و [][]بودن[]
@@ -1506,12 +1506,12 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 556--564
+Underfull \hbox (badness 10000) in paragraph at lines 560--568
 [][]
  []
 
 
-Overfull \hbox (0.77243pt too wide) in paragraph at lines 591--606
+Overfull \hbox (0.77243pt too wide) in paragraph at lines 595--610
 []\TU/XBNiloofar(0)/b/n/12 هنگام «تشکیل» پیوند،‌ مقداری انرژی []می‌شود ( با علا
 مت $\OMS/cmsy/m/n/12 ^^M$ \TU/XBNiloofar(0)/b/n/12 گزارش می‌شود).(H $\OT1/cmr/m
 /n/12 ^^A$\TU/XBNiloofar(0)/b/n/12 واکنش، []این انرژی‌های[]
@@ -1526,8 +1526,8 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [9]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 622--633
-[][] []
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 626--635
+[][][]
  []
 
 
@@ -1538,18 +1538,53 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
-[10] (./fasl2.aux)
+[10]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 651--663
+[][][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
+
+[11]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 672--678
+[][][]
+ []
+
+
+Overfull \hbox (34.29736pt too wide) in paragraph at lines 679--681
+[][]\TU/XBNiloofar(0)/b/n/12 خود را بیازمایید صفحه \TU/XBNiloofar(1)/b/n/12 ۷۱\
+TU/XBNiloofar(0)/b/n/12 : $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/
+m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )
+ | ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OM
+L/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )$ []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
+
+[12] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24884 strings out of 478673
- 580882 string characters out of 5849398
+ 24927 strings out of 478673
+ 581890 string characters out of 5849398
  1863018 words of memory out of 5000000
- 44479 multiletter control sequences out of 15000+600000
+ 44522 multiletter control sequences out of 15000+600000
  516879 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,18n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl2.pdf (10 pages).
+Output written on fasl2.pdf (12 pages).
