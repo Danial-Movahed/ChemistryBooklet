@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.1)  16 OCT 2023 14:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.1)  16 OCT 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1701,6 +1701,19 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [13]
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
+le
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 774.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 774.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <5> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 774.
+
 
 Package fancyhdr Warning: \headheight is too small (1.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1709,18 +1722,27 @@ Package fancyhdr Warning: \headheight is too small (1.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
-[14] (./fasl2.aux)
+[14]
+
+Package fancyhdr Warning: \headheight is too small (1.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
+
+[15] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27452 strings out of 478673
- 643732 string characters out of 5849398
- 1866018 words of memory out of 5000000
- 47018 multiletter control sequences out of 15000+600000
- 517979 words of font info for 84 fonts, out of 8000000 for 9000
+ 27498 strings out of 478673
+ 645265 string characters out of 5849398
+ 1867018 words of memory out of 5000000
+ 47050 multiletter control sequences out of 15000+600000
+ 519534 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,18n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,21n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl2.pdf (14 pages).
+Output written on fasl2.pdf (15 pages).
