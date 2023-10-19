@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.10.19)  19 OCT 2023 15:41
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.10.19)  19 OCT 2023 16:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1639,6 +1639,11 @@ Overfull \hbox (3.81978pt too wide) in paragraph at lines 1051--1054
 [][][]
  []
 
+
+Overfull \hbox (42.06241pt too wide) in paragraph at lines 1070--1070
+[][][] []
+ []
+
 Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
@@ -1700,6 +1705,11 @@ Overfull \hbox (146.95866pt too wide) in paragraph at lines 1070--1070
 [][][] []
  []
 
+
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1070--1070
+[][]$[]$ $[]$ []
+ []
+
 Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
@@ -1758,11 +1768,11 @@ Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
 Overfull \hbox (114.58351pt too wide) in paragraph at lines 1070--1070
-[]|[] [] []
+[]|$[]$ $[]$ []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1070
+Overfull \vbox (20.40005pt too high) detected at line 1070
  []
 
 
@@ -1776,11 +1786,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28268 strings out of 478673
- 660608 string characters out of 5849396
+ 28272 strings out of 478673
+ 660818 string characters out of 5849396
  1878018 words of memory out of 5000000
- 47795 multiletter control sequences out of 15000+600000
- 519542 words of font info for 101 fonts, out of 8000000 for 9000
+ 47797 multiletter control sequences out of 15000+600000
+ 519558 words of font info for 103 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,24n,118p,2402b,1507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
