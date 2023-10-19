@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.9.1)  18 OCT 2023 15:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.10.19)  19 OCT 2023 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,13 +734,140 @@ Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
 \l__tblr_cell_ht_dim=\dimen320
 \l__tblr_diag_box=\box114
 )
+(/usr/share/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
+ways
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count326
+)
+(/usr/share/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/share/texmf-dist/tex/generic/listofitems/listofitems.tex
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
+\loi_cnt_foreach_nest=\count327
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 224 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 324 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+\loi_nestcnt=\count328
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 442 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 451 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 519 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+\c@@stackindex=\count329
+\@boxshift=\skip124
+\stack@tmplength=\skip125
+\temp@stkl=\skip126
+\@stackedboxwidth=\skip127
+\@addedbox=\box115
+\@anchorbox=\box116
+\@insetbox=\box117
+\se@backgroundbox=\box118
+\stackedbox=\box119
+\@centerbox=\box120
+\c@ROWcellindex@=\count330
+)
 (/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
 
 (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\pb@xlen=\skip124
+\pb@xlen=\skip128
 )
 (/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
@@ -754,21 +881,21 @@ Package: xparse 2023-02-02 L3 Experimental document command parser
 )
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count326
-\g__chemgreek_tmpa_int=\count327
+\l__chemgreek_tmpa_int=\count331
+\g__chemgreek_tmpa_int=\count332
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count328
-\__mhchem_arrow_extPgfLength_skip=\skip125
-\mhchem@minispace@tmp=\skip126
-\mhchem@minibackspace@tmp=\skip127
-\mhchem@bondwidth=\skip128
-\mhchem@bondheight=\skip129
-\mhchem@smallbondwidth@tmpA=\skip130
-\mhchem@smallbondwidth@tmpB=\skip131
-\mhchem@smallbondwidth=\skip132
-\mhchem@bondtmp@minussidebearingleft=\skip133
-\mhchem@bondtmp@minussidebearingright=\skip134
-\l__mhchem_option_version_int=\count329
+\l__mhchem_ce_distanceFromLastComma_int=\count333
+\__mhchem_arrow_extPgfLength_skip=\skip129
+\mhchem@minispace@tmp=\skip130
+\mhchem@minibackspace@tmp=\skip131
+\mhchem@bondwidth=\skip132
+\mhchem@bondheight=\skip133
+\mhchem@smallbondwidth@tmpA=\skip134
+\mhchem@smallbondwidth@tmpB=\skip135
+\mhchem@smallbondwidth=\skip136
+\mhchem@bondtmp@minussidebearingleft=\skip137
+\mhchem@bondtmp@minussidebearingright=\skip138
+\l__mhchem_option_version_int=\count334
 \mhchem@option@minusmathsidebearingleft=\dimen321
 \mhchem@option@minusmathsidebearingright=\dimen322
 \mhchem@option@minustextsidebearingleft=\dimen323
@@ -778,19 +905,19 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen325
-\l__xtemplate_tmp_int=\count330
+\l__xtemplate_tmp_int=\count335
 \l__xtemplate_tmp_muskip=\muskip17
-\l__xtemplate_tmp_skip=\skip135
+\l__xtemplate_tmp_skip=\skip139
 )
 Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
-\g__tasks_total_items_int=\count331
-\l__tasks_columns_int=\count332
-\g__tasks_rows_int=\count333
-\g__tasks_current_col_num_int=\count334
-\g__tasks_current_row_num_int=\count335
-\l__tasks_item_columns_int=\count336
-\g__tasks_env_int=\count337
-\l__tasks_start_int=\count338
+\g__tasks_total_items_int=\count336
+\l__tasks_columns_int=\count337
+\g__tasks_rows_int=\count338
+\g__tasks_current_col_num_int=\count339
+\g__tasks_current_row_num_int=\count340
+\l__tasks_item_columns_int=\count341
+\g__tasks_env_int=\count342
+\l__tasks_start_int=\count343
 \l__tasks_item_indent_dim=\dimen326
 \l__tasks_item_default_indent_dim=\dimen327
 \l__tasks_item_width_dim=\dimen328
@@ -801,17 +928,17 @@ Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
 \l__tasks_column_sep_dim=\dimen333
 \l__tasks_correction_dim=\dimen334
 \l__tasks_full_width_dim=\dimen335
-\l__tasks_after_item_skip=\skip136
-\l__tasks_custom_after_item_skip=\skip137
-\l__tasks_before_list_skip=\skip138
-\l__tasks_after_list_skip=\skip139
-\l__tasks_item_coffin=\box115
-\l__tasks_label_coffin=\box116
-\c@task=\count339
-\l__tasks_tmpa_int=\count340
-\l__tasks_tmpb_int=\count341
-\l__tasks_tmpa_coffin=\box117
-\l__tasks_tmpa_box=\box118
+\l__tasks_after_item_skip=\skip140
+\l__tasks_custom_after_item_skip=\skip141
+\l__tasks_before_list_skip=\skip142
+\l__tasks_after_list_skip=\skip143
+\l__tasks_item_coffin=\box121
+\l__tasks_label_coffin=\box122
+\c@task=\count344
+\l__tasks_tmpa_int=\count345
+\l__tasks_tmpb_int=\count346
+\l__tasks_tmpa_coffin=\box123
+\l__tasks_tmpa_box=\box124
 
 Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (xtemplate)             line 450.
@@ -820,33 +947,27 @@ Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (/usr/share/texmf-dist/tex/latex/tasks/tasks.cfg))
 (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count342
-\mult@box=\box119
+\c@tracingmulticols=\count347
+\mult@box=\box125
 \multicol@leftmargin=\dimen336
-\c@unbalance=\count343
-\c@collectmore=\count344
-\doublecol@number=\count345
-\multicoltolerance=\count346
-\multicolpretolerance=\count347
+\c@unbalance=\count348
+\c@collectmore=\count349
+\doublecol@number=\count350
+\multicoltolerance=\count351
+\multicolpretolerance=\count352
 \full@width=\dimen337
 \page@free=\dimen338
 \premulticols=\dimen339
 \postmulticols=\dimen340
-\multicolsep=\skip140
-\multicolbaselineskip=\skip141
-\partial@page=\box120
-\last@line=\box121
+\multicolsep=\skip144
+\multicolbaselineskip=\skip145
+\partial@page=\box126
+\last@line=\box127
 \maxbalancingoverflow=\dimen341
-\mult@rightbox=\box122
-\mult@grightbox=\box123
-\mult@firstbox=\box124
-\mult@gfirstbox=\box125
-\@tempa=\box126
-\@tempa=\box127
-\@tempa=\box128
-\@tempa=\box129
-\@tempa=\box130
-\@tempa=\box131
+\mult@rightbox=\box128
+\mult@grightbox=\box129
+\mult@firstbox=\box130
+\mult@gfirstbox=\box131
 \@tempa=\box132
 \@tempa=\box133
 \@tempa=\box134
@@ -877,15 +998,21 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box159
 \@tempa=\box160
 \@tempa=\box161
-\c@minrows=\count348
-\c@columnbadness=\count349
-\c@finalcolumnbadness=\count350
+\@tempa=\box162
+\@tempa=\box163
+\@tempa=\box164
+\@tempa=\box165
+\@tempa=\box166
+\@tempa=\box167
+\c@minrows=\count353
+\c@columnbadness=\count354
+\c@finalcolumnbadness=\count355
 \last@try=\dimen342
 \multicolovershoot=\dimen343
 \multicolundershoot=\dimen344
-\mult@nat@firstbox=\box162
-\colbreak@box=\box163
-\mc@col@check@num=\count351
+\mult@nat@firstbox=\box168
+\colbreak@box=\box169
+\mc@col@check@num=\count356
 )
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.tex
@@ -899,19 +1026,19 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowwidth=\dimen347
 \pgfarrowlinewidth=\dimen348
 )
-\CF_cnt_atomgroup=\count352
-\CF_cnt_group=\count353
-\CF_cnt_atom=\count354
-\CF_cnt_cycle=\count355
-\CF_cnt_cyclebonds=\count356
-\CF_cnt_compound=\count357
+\CF_cnt_atomgroup=\count357
+\CF_cnt_group=\count358
+\CF_cnt_atom=\count359
+\CF_cnt_cycle=\count360
+\CF_cnt_cyclebonds=\count361
+\CF_cnt_compound=\count362
 \CF_dim=\dimen349
 \CF_arrowsize=\dimen350
 \CF_zero=\dimen351
-\CF_box=\box164
-\CF_boxstuff=\box165
-\CF_testbox=\box166
-\CF_chargebox=\box167
+\CF_box=\box170
+\CF_boxstuff=\box171
+\CF_testbox=\box172
+\CF_chargebox=\box173
 \CF_substtoks=\toks40
 )
 Package: chemfig 2023/02/18 v1.6d Draw molecule with an easy syntax (CT)
@@ -925,17 +1052,17 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count358
-\l__fontspec_language_int=\count359
-\l__fontspec_strnum_int=\count360
-\l__fontspec_tmp_int=\count361
-\l__fontspec_tmpa_int=\count362
-\l__fontspec_tmpb_int=\count363
-\l__fontspec_tmpc_int=\count364
-\l__fontspec_em_int=\count365
-\l__fontspec_emdef_int=\count366
-\l__fontspec_strong_int=\count367
-\l__fontspec_strongdef_int=\count368
+\l__fontspec_script_int=\count363
+\l__fontspec_language_int=\count364
+\l__fontspec_strnum_int=\count365
+\l__fontspec_tmp_int=\count366
+\l__fontspec_tmpa_int=\count367
+\l__fontspec_tmpb_int=\count368
+\l__fontspec_tmpc_int=\count369
+\l__fontspec_em_int=\count370
+\l__fontspec_emdef_int=\count371
+\l__fontspec_strong_int=\count372
+\l__fontspec_strongdef_int=\count373
 \l__fontspec_tmpa_dim=\dimen352
 \l__fontspec_tmpb_dim=\dimen353
 \l__fontspec_tmpc_dim=\dimen354
@@ -946,43 +1073,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count369
-\XePersian@y=\count370
-\XePersian@m=\count371
-\XePersian@d=\count372
-\XePersian@latini=\count373
-\XePersian@persiani=\count374
-\XePersian@latinii=\count375
-\XePersian@persianii=\count376
-\XePersian@latiniii=\count377
-\XePersian@persianiii=\count378
-\XePersian@latiniv=\count379
-\XePersian@persianiv=\count380
-\XePersian@latinv=\count381
-\XePersian@persianv=\count382
-\XePersian@latinvi=\count383
-\XePersian@persianvi=\count384
-\XePersian@latinvii=\count385
-\XePersian@persianvii=\count386
-\XePersian@latinviii=\count387
-\XePersian@persianviii=\count388
-\XePersian@latinix=\count389
-\XePersian@persianix=\count390
-\XePersian@latinx=\count391
-\XePersian@persianx=\count392
-\XePersian@latinxi=\count393
-\XePersian@persianxi=\count394
-\XePersian@latinxii=\count395
-\XePersian@persianxii=\count396
-\XePersian@persianxiii=\count397
-\XePersian@temp=\count398
-\XePersian@temptwo=\count399
-\XePersian@tempthree=\count400
-\XePersian@yModHundred=\count401
-\XePersian@thirtytwo=\count402
-\XePersian@dn=\count403
-\XePersian@sn=\count404
-\XePersian@mminusone=\count405
+\XePersian@i=\count374
+\XePersian@y=\count375
+\XePersian@m=\count376
+\XePersian@d=\count377
+\XePersian@latini=\count378
+\XePersian@persiani=\count379
+\XePersian@latinii=\count380
+\XePersian@persianii=\count381
+\XePersian@latiniii=\count382
+\XePersian@persianiii=\count383
+\XePersian@latiniv=\count384
+\XePersian@persianiv=\count385
+\XePersian@latinv=\count386
+\XePersian@persianv=\count387
+\XePersian@latinvi=\count388
+\XePersian@persianvi=\count389
+\XePersian@latinvii=\count390
+\XePersian@persianvii=\count391
+\XePersian@latinviii=\count392
+\XePersian@persianviii=\count393
+\XePersian@latinix=\count394
+\XePersian@persianix=\count395
+\XePersian@latinx=\count396
+\XePersian@persianx=\count397
+\XePersian@latinxi=\count398
+\XePersian@persianxi=\count399
+\XePersian@latinxii=\count400
+\XePersian@persianxii=\count401
+\XePersian@persianxiii=\count402
+\XePersian@temp=\count403
+\XePersian@temptwo=\count404
+\XePersian@tempthree=\count405
+\XePersian@yModHundred=\count406
+\XePersian@thirtytwo=\count407
+\XePersian@dn=\count408
+\XePersian@sn=\count409
+\XePersian@mminusone=\count410
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -1023,17 +1150,17 @@ n plain TeX and LaTeX
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
 \@bidi@envbody=\toks41
 \@bidi@emptytoks=\toks42
-\bidi@poscount=\count406
-\bidi@tempcountb=\count407
+\bidi@poscount=\count411
+\bidi@tempcountb=\count412
 \bidi@temptoksa=\toks43
 \bidi@temptoksb=\toks44
-\bidi@dummies=\count408
+\bidi@dummies=\count413
 \bidi@are@these@correct=\toks45
 \bidi@toks@lista=\toks46
 \bidi@toks@listb=\toks47
-\bidi@stack@length=\count409
+\bidi@stack@length=\count414
 \bidi@empty@stack=\toks48
-\bidi@looprepeat@depth=\count410
+\bidi@looprepeat@depth=\count415
 )
 (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -1074,7 +1201,7 @@ Package zref Info: New property: page on input line 769.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count411
+\c@abspage=\count416
 Package zref Info: New property: abspage on input line 65.
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -1085,7 +1212,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks49
 \XKV@tempa@toks=\toks50
 )
-\XKV@depth=\count412
+\XKV@depth=\count417
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -1094,12 +1221,12 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks51
-\bidi@column@check@number=\count413
+\bidi@column@check@number=\count418
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count414
+\c@footdir@label=\count419
 \footdir@toks=\toks52
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
@@ -1157,7 +1284,7 @@ de.tex file for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count415
+\bidi@digits=\count420
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1186,7 +1313,7 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count416
+\xepersian@tcl=\count421
 \xepersian@ilg=\dimen355
 \xepersian@strutilg=\dimen356
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
@@ -1312,7 +1439,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 62.
+'XB Niloofar' on input line 63.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1320,28 +1447,28 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
  (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
-6.
+7.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1360,7 +1487,7 @@ LaTeX Font Info:    ... okay on input line 86.
 * \oddsidemargin=-14.45378pt
 * \evensidemargin=-14.45378pt
 * \topmargin=-81.72273pt
-* \headheight=1.0pt
+* \headheight=14.5pt
 * \headsep=28.45274pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1382,61 +1509,43 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 86.
+Package chemgreek Info: Activating mapping `fontspec' on line 87.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 86.
-Package gensymb Info: Math companion symbols declared on input line 86.
-LaTeX Info: Redefining \degree on input line 86.
-LaTeX Info: Redefining \celsius on input line 86.
+t line 87.
+Package gensymb Info: Math companion symbols declared on input line 87.
+LaTeX Info: Redefining \degree on input line 87.
+LaTeX Info: Redefining \celsius on input line 87.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 86.
-LaTeX Info: Redefining \ohm on input line 86.
-Package gensymb Info: Using \textohm for \ohm on input line 86.
-Package gensymb Info: Using \textmu for \micro on input line 86.
+erthousand on input line 87.
+LaTeX Info: Redefining \ohm on input line 87.
+Package gensymb Info: Using \textohm for \ohm on input line 87.
+Package gensymb Info: Using \textmu for \micro on input line 87.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
+le
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 89.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 89.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
+e
+(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
+ne 89.
+LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
+put line 89.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 89.
 
 
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
+LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead on input line 89.
 
 [1
 
 ]
-Overfull \hbox (2.69716pt too wide) in paragraph at lines 133--134
-[][]\TU/XBNiloofar(0)/m/n/12 یا اگر به یخ داده شود، []می‌شود. در این حالت‌ها، ب
-ا گرفتن گرما، []ذرات بیشتر شده و دما []می‌رود[]
- []
-
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
-le
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 135.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 135.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 135.
-LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 135.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 135.
-
-LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 135.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--170
-[][]
- []
-
 Missing character: There is no ا ("627) in font cmmi8!
 Missing character: There is no س ("633) in font cmmi8!
 Missing character: There is no ت ("62A) in font cmmi8!
@@ -1461,144 +1570,72 @@ Missing character: There is no و ("648) in font cmmi8!
 Missing character: There is no ا ("627) in font cmmi8!
 Missing character: There is no ن ("646) in font cmmi8!
 Missing character: There is no د ("62F) in font cmmi8!
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[2]
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[3]
-Overfull \hbox (3.15622pt too wide) in paragraph at lines 251--254
-[][]\TU/XBNiloofar(0)/m/n/12 ماده اصلی تشکیل‌دهنده هر دو، []است، پس به مقدار []
-موجود در آن‌ها توجه می‌کنیم. نان، []کمتری[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 298--317
+[2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 305--317
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--317
+Underfull \hbox (badness 10000) in paragraph at lines 305--317
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--317
+Underfull \hbox (badness 10000) in paragraph at lines 305--317
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--317
+Underfull \hbox (badness 10000) in paragraph at lines 305--317
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--317
+Underfull \hbox (badness 10000) in paragraph at lines 305--317
 [][]
  []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 350--360
-[]\TU/XBNiloofar(1)/m/n/12 ۲\TU/XBNiloofar(0)/m/n/12 - فرآیند گرماگیر: $[][]\OT
-1/cmr/m/n/12 H[][]O [][][]s[][] [] [][][]H[][]O [][][]l[]$[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 384--401
+Underfull \hbox (badness 10000) in paragraph at lines 388--400
 [][]
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--401
-[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 441--451
 [][]
  []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [7]
-Overfull \hbox (18.5977pt too wide) in paragraph at lines 514--540
-[]\TU/XBNiloofar(0)/m/n/12 مقدار عددی $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H$ \
-TU/XBNiloofar(0)/m/n/12 در یک فرآیند، []آن را نشان می‌دهد، اما علامت + یا -، به
- ترتیب، [][]و [][]بودن[]
- []
-
 Missing character: There is no ر ("631) in font cmmi12!
 Missing character: There is no ف ("641) in font cmmi12!
 Missing character: There is no ت ("62A) in font cmmi12!
@@ -1607,67 +1644,28 @@ Missing character: There is no ر ("631) in font cmmi12!
 Missing character: There is no گ ("6AF) in font cmmi12!
 Missing character: There is no ش ("634) in font cmmi12!
 Missing character: There is no ت ("62A) in font cmmi12!
+[8] [9] [10]
+Overfull \hbox (17.00366pt too wide) in paragraph at lines 637--639
+[][][] []
+ []
 
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 562--570
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
 [][]
  []
 
-
-Overfull \hbox (0.77243pt too wide) in paragraph at lines 597--612
-[]\TU/XBNiloofar(0)/m/n/12 هنگام «تشکیل» پیوند،‌ مقداری انرژی []می‌شود ( با علا
-مت $\OMS/cmsy/m/n/12 ^^M$ \TU/XBNiloofar(0)/m/n/12 گزارش می‌شود).(H $\OT1/cmr/m
-/n/12 ^^A$\TU/XBNiloofar(0)/m/n/12 واکنش، []این انرژی‌های[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[9]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 628--637
-[][][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[10]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 653--665
-[][][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
 [11]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 674--680
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 655--667
+[][][]
+ []
+
+[12]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 676--682
 [][][]
  []
 
 
-Overfull \hbox (34.29736pt too wide) in paragraph at lines 681--683
+Overfull \hbox (34.29736pt too wide) in paragraph at lines 683--685
 [][]\TU/XBNiloofar(0)/m/n/12 خود را بیازمایید صفحه \TU/XBNiloofar(1)/m/n/12 ۷۱\
 TU/XBNiloofar(0)/m/n/12 : $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/
 m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )
@@ -1683,131 +1681,51 @@ L/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )$[]
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[12]
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[13]
+[13] [14]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 774.
+ne 776.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 774.
+ne 776.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <5> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 774.
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 790--791
+ne 776.
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
 [][]
  []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 842--843
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--873
-[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
 
 [16]
-
-! Package mhchem Error: Assertion failed: Unexpected input character. In case
-(mhchem)                you think this is a bug, please contact the package
-(mhchem)                author.
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.969 ...ce{H_2O_2 (aq) [\censor{نمیدونم} (aq)]->}
-                                                  $
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+[][]
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 872--875
+[][]
+ []
 
-Overfull \hbox (50.48862pt too wide) in paragraph at lines 940--970
+[17]
+Overfull \hbox (50.48862pt too wide) in paragraph at lines 942--971
 [][][]
  []
 
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[17]
-
-Package fancyhdr Warning: \headheight is too small (1.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-13.49998pt}.
-
-[18] (./fasl2.aux)
+[18] [19] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 27568 strings out of 478673
- 646882 string characters out of 5849398
- 1874018 words of memory out of 5000000
- 47120 multiletter control sequences out of 15000+600000
+ 28535 strings out of 478673
+ 661808 string characters out of 5849396
+ 1878018 words of memory out of 5000000
+ 48073 multiletter control sequences out of 15000+600000
  519534 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,21n,118p,2402b,1382s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,24n,118p,2402b,1507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl2.pdf (18 pages).
+Output written on fasl2.pdf (19 pages).
