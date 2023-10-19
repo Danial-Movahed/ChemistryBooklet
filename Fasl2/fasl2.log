@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.10.19)  19 OCT 2023 13:59
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.10.19)  19 OCT 2023 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -960,6 +960,54 @@ Package: chemfig 2023/02/18 v1.6d Draw molecule with an easy syntax (CT)
 ) (/usr/share/texmf-dist/tex/latex/bigfoot/perpage.sty
 Package: perpage 2014/10/25 2.0 Reset/sort counters per page
 )
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/vwcol/vwcol.sty
+Package: vwcol 2015/02/10 v0.2 Variable-width multicolumn text
+
+(/usr/share/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/02/25 v3.4 ragged2e Package
+\CenteringLeftskip=\skip142
+\RaggedLeftLeftskip=\skip143
+\RaggedRightLeftskip=\skip144
+\CenteringRightskip=\skip145
+\RaggedLeftRightskip=\skip146
+\RaggedRightRightskip=\skip147
+\CenteringParfillskip=\skip148
+\RaggedLeftParfillskip=\skip149
+\RaggedRightParfillskip=\skip150
+\JustifyingParfillskip=\skip151
+\CenteringParindent=\skip152
+\RaggedLeftParindent=\skip153
+\RaggedRightParindent=\skip154
+\JustifyingParindent=\skip155
+)
+\vwcol@sep=\skip156
+\vwcol@rule=\skip157
+\vwcol@totalwidth=\skip158
+\vwcol@averagewidth=\skip159
+\vwcol@parindent=\skip160
+\vwcol@last=\count359
+\vwcol@Ncols=\count360
+\vwcol@Nlines=\count361
+\vwcol@maxrecursion=\count362
+\vwcol@box=\box168
+\vwcol@plainbox=\box169
+\vwcol@outputbox=\box170
+)
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
 typesetting in XeLaTeX
@@ -970,17 +1018,17 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count359
-\l__fontspec_language_int=\count360
-\l__fontspec_strnum_int=\count361
-\l__fontspec_tmp_int=\count362
-\l__fontspec_tmpa_int=\count363
-\l__fontspec_tmpb_int=\count364
-\l__fontspec_tmpc_int=\count365
-\l__fontspec_em_int=\count366
-\l__fontspec_emdef_int=\count367
-\l__fontspec_strong_int=\count368
-\l__fontspec_strongdef_int=\count369
+\l__fontspec_script_int=\count363
+\l__fontspec_language_int=\count364
+\l__fontspec_strnum_int=\count365
+\l__fontspec_tmp_int=\count366
+\l__fontspec_tmpa_int=\count367
+\l__fontspec_tmpb_int=\count368
+\l__fontspec_tmpc_int=\count369
+\l__fontspec_em_int=\count370
+\l__fontspec_emdef_int=\count371
+\l__fontspec_strong_int=\count372
+\l__fontspec_strongdef_int=\count373
 \l__fontspec_tmpa_dim=\dimen352
 \l__fontspec_tmpb_dim=\dimen353
 \l__fontspec_tmpc_dim=\dimen354
@@ -991,43 +1039,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count370
-\XePersian@y=\count371
-\XePersian@m=\count372
-\XePersian@d=\count373
-\XePersian@latini=\count374
-\XePersian@persiani=\count375
-\XePersian@latinii=\count376
-\XePersian@persianii=\count377
-\XePersian@latiniii=\count378
-\XePersian@persianiii=\count379
-\XePersian@latiniv=\count380
-\XePersian@persianiv=\count381
-\XePersian@latinv=\count382
-\XePersian@persianv=\count383
-\XePersian@latinvi=\count384
-\XePersian@persianvi=\count385
-\XePersian@latinvii=\count386
-\XePersian@persianvii=\count387
-\XePersian@latinviii=\count388
-\XePersian@persianviii=\count389
-\XePersian@latinix=\count390
-\XePersian@persianix=\count391
-\XePersian@latinx=\count392
-\XePersian@persianx=\count393
-\XePersian@latinxi=\count394
-\XePersian@persianxi=\count395
-\XePersian@latinxii=\count396
-\XePersian@persianxii=\count397
-\XePersian@persianxiii=\count398
-\XePersian@temp=\count399
-\XePersian@temptwo=\count400
-\XePersian@tempthree=\count401
-\XePersian@yModHundred=\count402
-\XePersian@thirtytwo=\count403
-\XePersian@dn=\count404
-\XePersian@sn=\count405
-\XePersian@mminusone=\count406
+\XePersian@i=\count374
+\XePersian@y=\count375
+\XePersian@m=\count376
+\XePersian@d=\count377
+\XePersian@latini=\count378
+\XePersian@persiani=\count379
+\XePersian@latinii=\count380
+\XePersian@persianii=\count381
+\XePersian@latiniii=\count382
+\XePersian@persianiii=\count383
+\XePersian@latiniv=\count384
+\XePersian@persianiv=\count385
+\XePersian@latinv=\count386
+\XePersian@persianv=\count387
+\XePersian@latinvi=\count388
+\XePersian@persianvi=\count389
+\XePersian@latinvii=\count390
+\XePersian@persianvii=\count391
+\XePersian@latinviii=\count392
+\XePersian@persianviii=\count393
+\XePersian@latinix=\count394
+\XePersian@persianix=\count395
+\XePersian@latinx=\count396
+\XePersian@persianx=\count397
+\XePersian@latinxi=\count398
+\XePersian@persianxi=\count399
+\XePersian@latinxii=\count400
+\XePersian@persianxii=\count401
+\XePersian@persianxiii=\count402
+\XePersian@temp=\count403
+\XePersian@temptwo=\count404
+\XePersian@tempthree=\count405
+\XePersian@yModHundred=\count406
+\XePersian@thirtytwo=\count407
+\XePersian@dn=\count408
+\XePersian@sn=\count409
+\XePersian@mminusone=\count410
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -1068,17 +1116,17 @@ n plain TeX and LaTeX
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
 \@bidi@envbody=\toks41
 \@bidi@emptytoks=\toks42
-\bidi@poscount=\count407
-\bidi@tempcountb=\count408
+\bidi@poscount=\count411
+\bidi@tempcountb=\count412
 \bidi@temptoksa=\toks43
 \bidi@temptoksb=\toks44
-\bidi@dummies=\count409
+\bidi@dummies=\count413
 \bidi@are@these@correct=\toks45
 \bidi@toks@lista=\toks46
 \bidi@toks@listb=\toks47
-\bidi@stack@length=\count410
+\bidi@stack@length=\count414
 \bidi@empty@stack=\toks48
-\bidi@looprepeat@depth=\count411
+\bidi@looprepeat@depth=\count415
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
@@ -1088,7 +1136,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks49
 \XKV@tempa@toks=\toks50
 )
-\XKV@depth=\count412
+\XKV@depth=\count416
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -1097,12 +1145,12 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks51
-\bidi@column@check@number=\count413
+\bidi@column@check@number=\count417
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count414
+\c@footdir@label=\count418
 \footdir@toks=\toks52
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
@@ -1155,12 +1203,16 @@ kage for XeTeX engine
 (/usr/share/texmf-dist/tex/xelatex/bidi/pgfsys.code-xetex-bidi.def
 File: pgfsys.code-xetex-bidi.def 2022/06/01 v0.1 bidi adaptations for pgfsys.co
 de.tex file for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/ragged2e-xetex-bidi.def
+File: ragged2e-xetex-bidi.def 2018/10/17 v0.3 bidi adaptations for ragged2e pac
+kage for XeTeX engine
 ))
 (/usr/share/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count415
+\bidi@digits=\count419
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1189,7 +1241,7 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count416
+\xepersian@tcl=\count420
 \xepersian@ilg=\dimen355
 \xepersian@strutilg=\dimen356
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
@@ -1256,15 +1308,6 @@ apping=tex-text;"
 ;mapping=tex-text;"
 
 )
-(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
-Package: gensymb 2022/10/17 v1.0.2 (KJH)
-)
 
 Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
 (fontspec)             Niloofar' with options
@@ -1315,37 +1358,37 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 64.
+'XB Niloofar' on input line 65.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
 \symnew@mathrm@font@digits=\mathgroup7
-\c@pp@a@footnote=\count417
- (./fasl2.aux)
+\c@pp@a@footnote=\count421
+
+(./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
-8.
-
-(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+9.
+ (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1386,39 +1429,39 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 88.
+Package chemgreek Info: Activating mapping `fontspec' on line 89.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 88.
-Package gensymb Info: Math companion symbols declared on input line 88.
-LaTeX Info: Redefining \degree on input line 88.
-LaTeX Info: Redefining \celsius on input line 88.
+t line 89.
+Package gensymb Info: Math companion symbols declared on input line 89.
+LaTeX Info: Redefining \degree on input line 89.
+LaTeX Info: Redefining \celsius on input line 89.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 88.
-LaTeX Info: Redefining \ohm on input line 88.
-Package gensymb Info: Using \textohm for \ohm on input line 88.
-Package gensymb Info: Using \textmu for \micro on input line 88.
+erthousand on input line 89.
+LaTeX Info: Redefining \ohm on input line 89.
+Package gensymb Info: Using \textohm for \ohm on input line 89.
+Package gensymb Info: Using \textmu for \micro on input line 89.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 90.
+ne 91.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 90.
+ne 91.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 90.
+ne 91.
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 90.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 90.
+put line 91.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 91.
 
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 90.
+(Font)              using `TS1/cmr/m/n' instead on input line 91.
 
 [1
 
@@ -1448,67 +1491,67 @@ Missing character: There is no ا ("627) in font cmmi8!
 Missing character: There is no ن ("646) in font cmmi8!
 Missing character: There is no د ("62F) in font cmmi8!
 [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 306--318
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--318
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--318
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--318
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--318
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
 [][]
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 389--401
+Underfull \hbox (badness 10000) in paragraph at lines 390--402
 [][]
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--452
+Underfull \hbox (badness 10000) in paragraph at lines 443--453
 [][]
  []
 
@@ -1522,27 +1565,27 @@ Missing character: There is no گ ("6AF) in font cmmi12!
 Missing character: There is no ش ("634) in font cmmi12!
 Missing character: There is no ت ("62A) in font cmmi12!
 [8] [9] [10]
-Overfull \hbox (17.00366pt too wide) in paragraph at lines 638--640
+Overfull \hbox (17.00366pt too wide) in paragraph at lines 639--641
 [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--640
+Underfull \hbox (badness 10000) in paragraph at lines 639--641
 [][]
  []
 
 [11]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 656--668
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 657--669
 [][][]
  []
 
 [12]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 677--683
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 678--684
 [][][]
  []
 
 
-Overfull \hbox (34.29736pt too wide) in paragraph at lines 684--686
+Overfull \hbox (34.29736pt too wide) in paragraph at lines 685--687
 [][]\TU/XBNiloofar(0)/m/n/12 خود را بیازمایید صفحه \TU/XBNiloofar(1)/m/n/12 ۷۱\
 TU/XBNiloofar(0)/m/n/12 : $\OT1/cmr/m/n/12 ^^A\OML/cmm/m/it/12 H[][] \OMS/cmsy/
 m/n/12 ' ^^@[][][][]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )
@@ -1562,52 +1605,183 @@ L/cmm/m/it/12 KJ:mol[]\OT1/cmr/m/n/12 )$[]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 777.
+ne 778.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 777.
+ne 778.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <5> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 777.
+ne 778.
  [15]
-Underfull \hbox (badness 10000) in paragraph at lines 793--794
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
 [][]
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 845--846
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 873--876
+Underfull \hbox (badness 10000) in paragraph at lines 874--877
 [][]
  []
 
 [17]
-Overfull \hbox (50.48862pt too wide) in paragraph at lines 943--972
+Overfull \hbox (50.48862pt too wide) in paragraph at lines 944--973
 [][][]
  []
 
 [18] [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1003--1027
-[][]
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1051--1054
+[][][]
  []
 
-[20] (./fasl2.aux)
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (146.95866pt too wide) in paragraph at lines 1070--1070
+[][][] []
+ []
+
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
+=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (114.58351pt too wide) in paragraph at lines 1070--1070
+[]|[] [] []
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1070
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 1070
+[] [][][]|[][][] 
+ []
+
+[20] [21] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27996 strings out of 478673
- 654600 string characters out of 5849396
+ 28268 strings out of 478673
+ 660608 string characters out of 5849396
  1878018 words of memory out of 5000000
- 47544 multiletter control sequences out of 15000+600000
- 519534 words of font info for 100 fonts, out of 8000000 for 9000
+ 47795 multiletter control sequences out of 15000+600000
+ 519542 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,24n,118p,2402b,1507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl2.pdf (20 pages).
+Output written on fasl2.pdf (21 pages).
