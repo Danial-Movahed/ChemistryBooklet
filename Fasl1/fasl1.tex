@@ -1,0 +1,165 @@
+\documentclass[a4paper,12pt]{article}
+%\usepackage[top=1in,margin=5em]{geometry}
+\usepackage[top=7em,bottom=1pt,right=0.8in,left=0.8in,headheight=65pt,headsep=1cm]{geometry}
+\usepackage{tikz-page}
+\usepackage{tikz}
+\usepackage{fancybox}
+\usetikzlibrary{shadows.blur}
+\usepackage{enumitem}
+\usepackage{zref-abspage}
+\usepackage{tabularray}
+\usepackage{pbox}
+\usepackage[version=4]{mhchem}
+\usepackage{tasks}
+\usepackage{multicol}
+\usepackage{chemfig}
+\usepackage{perpage}
+\usepackage{setspace}
+\usepackage{vwcol}  
+\usepackage{mathtools}
+\usepackage{textcomp, gensymb}
+\usepackage{xepersian}
+
+
+
+\pagestyle{plain}
+\tikzset{
+	secnode/.style={
+		minimum height=1cm,
+		inner xsep=20pt,
+		rotate=90,
+		anchor=north east,
+		draw=white,
+		fill=black,
+		text=white,
+		blur shadow={shadow blur steps=5,shadow blur extra rounding=1.3pt}},
+	pagenode/.style={
+		minimum width=5mm,
+		minimum height=1cm,
+		inner sep=2pt,
+		anchor=south east,
+		draw=white,
+		fill=black,
+		text=white,
+		blur shadow={shadow blur steps=5,shadow blur extra rounding=1.3pt}}
+}
+\newcommand{\tikzpagelayout}{
+	\draw[black,line width=2pt,rounded corners=20pt] ([xshift=10mm]page.northwest) |- ([xshift=-2cm,yshift=10mm]page.southeast);
+	\node[secnode] at ([xshift=5mm]page.northwest) {سالم غذا‌های پی در | شکیباییان};
+	\node[pagenode] at ([xshift=-1cm,yshift=5mm]page.southeast) {\thepage};
+	
+}
+
+\newenvironment{en}
+{\begin{enumerate}\setlength\itemsep{-0.2em}}
+	{\end{enumerate}}
+
+\newenvironment{iit}
+{\begin{itemize}\setlength\itemsep{-0.5em}}
+	{\end{itemize}}
+
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+		\node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+\settextfont{XB Niloofar}
+\setdigitfont{XB Niloofar}
+\setstretch{1.5}
+\setlist[itemize]{topsep=0pt}
+\setlist[enumerate]{topsep=0pt}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{14.5pt}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{0.5cm}
+\MakePerPage{footnote}
+
+\newcommand{\fb}{\rule{2cm}{0.15mm}\;}
+\newcommand{\fs}{\rule{1cm}{0.15mm}}
+\newcommand{\fsm}{{\rule{0.5cm}{0.15mm}\;}}
+\newcommand{\lin}{\vspace{4pt}\hrule\vspace{4pt}}
+\newcommand\gototask[1]{\addtocounter{task}{\numexpr#1-\value{task}\relax}}
+\NewTasksEnvironment[label=\arabic*.,label-format=\bfseries,label-width=4ex]{answers}[\a]
+\def\extra{\rule{1ex}{0ex}}
+\makeatletter
+\newcommand\censor{\@ifstar{\@cenmath}{\@centext}}
+\newcommand\@cenmath[1]{%
+	\protect\rule[-.3ex]{\widthofpbox{\extra$#1$}}{0.1ex}}
+\newcommand\@centext[1]{%
+	\protect\rule[-.3ex]{\widthofpbox{\extra#1}}{0.1ex}}
+\makeatother
+
+\begin{document}
+\textbf{مواد}،
+در زندگی ما، نقشی شگرف و موثر دارند. صنایع غذا، پوشاک، حمل ‌و نقل، ساختمان، ارتباطات و غیره، کم و پیش تحت تاثیر «\censor{نمیدونم}» هستند. رشد و گسترش تمدن بشری در گرو کشف و شناخت مواد «\censor{نمیدونم}» است. برای رفع نیازها، باید مواد  \censor{نمیدونم} تولید شوند، یا با \censor{نمیدونم} مواد، خواص آن‌ها تغییر کند. شیمی‌دان‌ها با پی بردن به رابطه \censor{نمیدونم} مواد با \censor{نمیدونم} سازنده، دریافتند که «\censor{نمیدونم}» دادن به مواد و «\censor{نمیدونم}» مواد به یکدیگر، سبب «\censor{نمیدونم}»، و گاهی «\censor{نمیدونم}» خواص آن‌ها می‌شود. اکنون، می‌توان موادی \textbf{نو}، با ویژگی‌های \textbf{منحصر به فرد} و \textbf{دلخواه} \underline{طراحی} کرد.
+\lin
+خود را بیازمایید \underline{۱} صفحه \underline{۳}؛ الف)
+$
+\left\{
+\begin{tabular}{rrr}
+	\text{
+		مواد \censor{نمیدونم} (\censor{نمیدونم})
+	} & $\leftarrow$ & \text{
+		فلز
+	}\\
+	\text{
+		مواد \censor{نمیدونم} (\censor{نمیدونم})
+	} & $\leftarrow$ & \text{
+		لاستیک
+	}
+\end{tabular}
+\right.
+$
+$\leftarrow$
+دوچرخه
+
+نتیجه: منشا اجزای این فرآورده، از «\censor{نمیدونم}» است.
+
+این فرآیند، شامل به دست آوردن \textbf{\underline{مواد}} دلخواه از منابع مختلف، برای تولید \censor{نمیدونم} مشخص است\\
+یعنی: \censor{نمیدونم} اولیه تهیه دوچرخه، به طور \censor{نمیدونم} قابل استفاده نیستند و باید \censor{نمیدونم} شوند.
+
+ب) \censor{نمیدونم}، کناره‌های ورق \censor{نمیدونم} برش خورده و کناره‌های            \censor{نمیدونم} بریده شده، دور ریخته \censor{نمیدونم}
+
+پ) قسمت‌های \censor{نمیدونم}، ممکن است در تماس با \underline{هوا} و \underline{رطوبت}، زنگ بزنند.\\
+قسمت‌های \censor{نمیدونم} و \censor{نمیدونم}، \underline{فرسوده} و \underline{کهنه} می‌شوند.
+ $\leftarrow$ \qquad \censor{نمیدونم}
+ \lin
+ خود را بیازمایید صفحه۳و۴: 
+الف) همه مواد \censor{نمیدونم} و \censor{نمیدونم} از کره زمین به دست می‌آیند.
+
+مواد به دو دسته تقسیم می‌شوند:
+\begin{en}
+	\item
+	مستقیماً از کره زمین به دست می‌آیند؛ مانند فلز‌‌‌ها، نفت، الماس و طلا
+	\item
+	غیر‌مستقیم از کره زمین به دست می‌آیند؛ (از مواد \censor{نمیدونم} تهیه می‌شوند) مانند لاستیک و پلاستیک
+\end{en}
+ب) به سه شکل، به زمین باز می‌گردند: \censor{نمیدونم} و \censor{نمیدونم} (و برخی \censor{نمیدونم} شده با اجزای هوا‌کره)\\
+پ) به تقریب، \censor{نمیدونم} کل مواد در کره زمین، \underline{ثابت} می‌ماند. هر چیزی که از زمین استخراج شده، در نهایت به صورت پسماند و زباله، به زمین باز می‌گردد.\\
+ت) هر چه میزان بهره‌برداری از منابع، بیشتر باشد، آن کشور توسعه یافته‌تر است.
+$\left(\frac{\text{درست}}{\text{نادرست}}\right)$\\
+دلیل: «\censor{نمیدونم}»، ثروت ملی هستند. بهره‌برداری باید با مدیریت برداشت اصولی از \censor{نمیدونم} همراه باشد:
+$\tiny ^{\circled{1}}$
+میزان بهره‌برداری مدیریت شده از منابع،
+$\tiny ^{\circled{2}}$
+به داشتن \censor{نمیدونم} برداشت منابع، داشتن «\censor{نمیدونم}» های پیشرفته و
+$\tiny ^{\circled{3}}$
+آموزش درست «\censor{نمیدونم} \censor{نمیدونم}» بستگی دارد.\\
+در نظر گرفتن \underline{۳} مورد بالا، به پیشرفت پایدار می‌انجامد.
+
+خود را بیازمایید\underline{۳} صفحه ۴:
+
+الف) حدود \censor{نمیدونم} میلیارد تن
+
+ب) بیش از \underline{۷۰} میلیارد تن (برای هر سه و حدود \underline{۱۲} میلیارد تن برای فلز‌ها)
+
+\begin{tabular}{rrrrrrr}
+	میزان مصرف سه منبع: & \censor{نمیدونم} & > & \censor{نمیدونم} & > & \censor{نمیدونم} & \\
+	شیب مصرف سه منبع: & \censor{نمیدونم} & > & \censor{نمیدونم} & > & \censor{نمیدونم} & (پس  از سال ۲۰۰۵)
+\end{tabular}
+
+پ) زمین، منبع عظیمی از هدایای ارزشمند و ضروری برای زندگی است. سالانه، مقادیر بسیار زیادی از منابع \censor{نمیدونم} ، \censor{نمیدونم} و \censor{نمیدونم} ، برای مصارف گوناگون، استخراج و مورد استفاده قرار می‌گیرند. با پیشرفت «\censor{نمیدونم}» و ساخت \textbf{دستگاه‌ها} و \textbf{ابزار} بهتر ( \censor{نمیدونم} بهتر و مدرن)، وابستگی (نیاز) به منابع، بیشتر\censor{نمیدونم} .
+
+\end{document}
+
+
+
+
