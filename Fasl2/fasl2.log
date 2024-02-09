@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.11.30)  3 FEB 2024 18:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  9 FEB 2024 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1020,6 +1020,9 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \xmathstrut@box=\box171
 \xmathstrut@dim=\dimen359
 )
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
 (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
@@ -1206,6 +1209,10 @@ kage for XeTeX engine
 File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
 kage for XeTeX engine
 )
+(/usr/share/texmf-dist/tex/xelatex/bidi/lscape-xetex-bidi.def
+File: lscape-xetex-bidi.def 2022/07/14 v0.2 bidi adaptations for lscape package
+ for XeTeX engine
+)
 (/usr/share/texmf-dist/tex/xelatex/bidi/fancybox-xetex-bidi.def
 File: fancybox-xetex-bidi.def 2013/05/01 v0.1 bidi adaptations for fancybox pac
 kage for XeTeX engine
@@ -1380,7 +1387,7 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 66.
+'XB Niloofar' on input line 72.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
@@ -1390,27 +1397,27 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
 (./fasl2.aux)
 \openout1 = `fasl2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
-0.
+6.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1451,123 +1458,73 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 90.
+Package chemgreek Info: Activating mapping `fontspec' on line 96.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 90.
-Package gensymb Info: Math companion symbols declared on input line 90.
-LaTeX Info: Redefining \degree on input line 90.
-LaTeX Info: Redefining \celsius on input line 90.
+t line 96.
+Package gensymb Info: Math companion symbols declared on input line 96.
+LaTeX Info: Redefining \degree on input line 96.
+LaTeX Info: Redefining \celsius on input line 96.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 90.
-LaTeX Info: Redefining \ohm on input line 90.
-Package gensymb Info: Using \textohm for \ohm on input line 90.
-Package gensymb Info: Using \textmu for \micro on input line 90.
+erthousand on input line 96.
+LaTeX Info: Redefining \ohm on input line 96.
+Package gensymb Info: Using \textohm for \ohm on input line 96.
+Package gensymb Info: Using \textmu for \micro on input line 96.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 98.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 98.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 98.
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 92.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 92.
+put line 98.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 98.
 
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 92.
+(Font)              using `TS1/cmr/m/n' instead on input line 98.
 
 [1
 
-] [2] [3] [4]
+] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
+[][]
+ []
+
+[4]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <5> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 349.
-
-Overfull \hbox (69.44185pt too wide) in paragraph at lines 343--356
-[][]\TU/XBNiloofar(0)/b/n/12 تمرین: \TU/XBNiloofar(0)/m/n/12 مبادلات انرژی را ه
-نگام مصرف بستنی با دمای \TU/XBNiloofar(1)/m/n/12 ۰ \TU/XBNiloofar(0)/m/n/12 درج
-ه سانتی گراد تا هضم آن را بررسی کنید. [][][] []
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 434--446
-[][]
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
+ne 358.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 476--486
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
+Underfull \hbox (badness 10000) in paragraph at lines 476--486
 [][]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--497
-[][]
- []
-
-[7]
-Missing character: There is no ر ("631) in font cmmi12!
-Missing character: There is no ف ("641) in font cmmi12!
-Missing character: There is no ت ("62A) in font cmmi12!
-Missing character: There is no ب ("628) in font cmmi12!
-Missing character: There is no ر ("631) in font cmmi12!
-Missing character: There is no گ ("6AF) in font cmmi12!
-Missing character: There is no ش ("634) in font cmmi12!
-Missing character: There is no ت ("62A) in font cmmi12!
-[8] [9] [10]
-Overfull \hbox (17.00366pt too wide) in paragraph at lines 685--687
+[6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (17.00366pt too wide) in paragraph at lines 752--754
 [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--687
+Underfull \hbox (badness 10000) in paragraph at lines 752--754
 [][]
  []
 
-[11] [12]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 708--720
-[][][]
- []
-
-[13]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 729--735
-[][][]
- []
-
+[13] [14]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1576,57 +1533,87 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 729--735
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
+ [15]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 809--821
+[][][]
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--757
+[16
+
+
+]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 830--836
+[][][]
+ []
+
+Missing character: There is no ۲ ("6F2) in font cmr8!
+! Undefined control sequence.
+l.850 ...تان $\bigcirc$ اتانول \qquad\qquadآنتالپی
+                                                   سوختن: اتان $\bigcirc$ ات...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--862
 [][]
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 779--784
+[17] [18]
+Overfull \hbox (31.74329pt too wide) in paragraph at lines 878--891
+[][][][] \TU/XBNiloofar(0)/m/n/12 بین چند آلکان (یا سایر هیدروکربن‌های هم خانوا
+ده) مقدار عددی آنتالپی سوختن ترکیبی بیشتر است که $\OML/cmm/m/it/12 ddfrac[][]$[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 892--897
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 779--784
+Underfull \hbox (badness 10000) in paragraph at lines 892--897
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 779--784
+Underfull \hbox (badness 10000) in paragraph at lines 892--897
 [][]
  []
 
-[15]
+[19]
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 839.
+ne 952.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 839.
- [16]
-Underfull \hbox (badness 10000) in paragraph at lines 856--857
+ne 952.
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
 [][]
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 937--940
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1053
 [][]
  []
 
-[18]
-Overfull \hbox (9.23862pt too wide) in paragraph at lines 1007--1036
+[22]
+Overfull \hbox (9.23862pt too wide) in paragraph at lines 1120--1149
 [][][]
  []
 
-[19] [20]
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1114--1117
+[23] [24]
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1227--1230
 [][][]
  []
 
 
-Overfull \hbox (42.06241pt too wide) in paragraph at lines 1133--1133
+Overfull \hbox (42.06241pt too wide) in paragraph at lines 1246--1246
 [][][] []
  []
 
@@ -1687,12 +1674,12 @@ Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (135.35213pt too wide) in paragraph at lines 1133--1133
+Overfull \hbox (135.35213pt too wide) in paragraph at lines 1246--1246
 [][][] []
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 1133--1133
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1246--1246
 [][]$[]$ $[]$ []
  []
 
@@ -1753,153 +1740,168 @@ Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (114.58351pt too wide) in paragraph at lines 1133--1133
+Overfull \hbox (114.58351pt too wide) in paragraph at lines 1246--1246
 []|$[]$ $[]$ []
  []
 
 
-Overfull \vbox (20.40005pt too high) detected at line 1133
+Overfull \vbox (20.40005pt too high) detected at line 1246
  []
 
 
-Underfull \hbox (badness 10000) detected at line 1133
+Underfull \hbox (badness 10000) detected at line 1246
 [] [][][]|[][][] 
  []
 
-[21] [22] [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1271
+[25] [26]
+Overfull \hbox (6.17543pt too wide) in paragraph at lines 1333--1349
+[]$[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/
+12 ^^@[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[] \OT1/cmr/m/n/12 = [] \OMS/cms
+y/m/n/12 ^^B [] [] ^^B [] \OT1/cmr/m/n/12 = [] []$ []
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
 [][]
  []
 
 
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1258--1271
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1387--1400
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1271
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1271
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
 [][]
  []
 
-[24]
-Missing character: There is no ج ("62C) in font cmr8!
-Missing character: There is no ر ("631) in font cmr8!
-Missing character: There is no م ("645) in font cmr8!
-Missing character: There is no م ("645) in font cmr8!
-Missing character: There is no و ("648) in font cmr8!
-Missing character: There is no ل ("644) in font cmr8!
-Missing character: There is no ی ("6CC) in font cmr8!
+[28]
+Missing character: There is no ج ("62C) in font cmr12!
+Missing character: There is no ر ("631) in font cmr12!
+Missing character: There is no م ("645) in font cmr12!
+Missing character: There is no م ("645) in font cmr12!
+Missing character: There is no و ("648) in font cmr12!
+Missing character: There is no ل ("644) in font cmr12!
+Missing character: There is no ی ("6CC) in font cmr12!
 
-Overfull \hbox (42.44647pt too wide) in paragraph at lines 1286--1309
+Overfull \hbox (42.44647pt too wide) in paragraph at lines 1415--1438
 []$[]$[]
  []
 
 
-Overfull \hbox (4.97589pt too wide) in paragraph at lines 1286--1309
+Overfull \hbox (4.97589pt too wide) in paragraph at lines 1415--1438
 []\TU/XBNiloofar(0)/m/n/12 نتیجه: [] در[]
  []
 
 
-Overfull \hbox (13.2917pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (13.2917pt too wide) in paragraph at lines 1467--1467
 []\TU/XBNiloofar(0)/m/n/12 نمودار‌های[]
  []
 
 
-Overfull \hbox (1.77803pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (1.77803pt too wide) in paragraph at lines 1467--1467
 []\TU/XBNiloofar(0)/m/n/12 «غلظت[]
  []
 
 
-Overfull \hbox (16.86592pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (16.86592pt too wide) in paragraph at lines 1467--1467
 []\TU/XBNiloofar(0)/m/n/12 فرآورده‌های[]
  []
 
 
-Overfull \hbox (50.80022pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (50.80022pt too wide) in paragraph at lines 1467--1467
 []$[][][][] [][][]\OT1/cmr/m/n/12 s[][] []$[]
  []
 
 
-Overfull \hbox (26.68816pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (26.68816pt too wide) in paragraph at lines 1467--1467
 []$[][][][] [] [][] \OT1/cmr/m/n/12 +$[]
  []
 
 
-Overfull \hbox (16.4713pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (16.4713pt too wide) in paragraph at lines 1467--1467
 []$[][][][][][] [] []$[]
  []
 
 
-Overfull \hbox (28.47597pt too wide) in paragraph at lines 1330--1330
- []\TU/XBNiloofar(0)/m/n/12 asdassadsdadsadsa[] 
+Overfull \hbox (109.94704pt too wide) in paragraph at lines 1467--1467
+ [][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1330
+Overfull \hbox (105.93336pt too wide) in paragraph at lines 1467--1467
+ [][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
 []$[][][][] [][][]\OT1/cmr/m/n/12 s[][] []$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1330
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
 []$[][][][] [] [][] \OT1/cmr/m/n/12 +$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1330
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
 []$[][][][][][] [] []$ \TU/XBNiloofar(0)/m/n/12 رسم[]
  []
 
 
-Overfull \hbox (114.58316pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (114.58316pt too wide) in paragraph at lines 1467--1467
 []|$[]$ $[]$[]
  []
 
 
-Overfull \hbox (18.20955pt too wide) in paragraph at lines 1330--1330
+Overfull \hbox (18.20955pt too wide) in paragraph at lines 1467--1467
 []$[]$ []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1330
+Underfull \vbox (badness 10000) detected at line 1467
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1330
+Underfull \vbox (badness 10000) detected at line 1467
  []
 
 
-Underfull \hbox (badness 10000) detected at line 1330
+Underfull \hbox (badness 10000) detected at line 1467
 [] [][][]|[][][] [] [][][]|[][][] 
  []
 
-[25]
+[29]
 Missing character: There is no و ("648) in font cmr8!
 Missing character: There is no ا ("627) in font cmr8!
 Missing character: There is no ک ("6A9) in font cmr8!
 Missing character: There is no ن ("646) in font cmr8!
 Missing character: There is no ش ("634) in font cmr8!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1418--1426
+Underfull \hbox (badness 10000) in paragraph at lines 1555--1563
 [][]
  []
 
-[26] [27] [28] (./fasl2.aux)
+[30] [31] [32] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 28933 strings out of 478673
- 674049 string characters out of 5849396
- 1878018 words of memory out of 5000000
- 48447 multiletter control sequences out of 15000+600000
- 519566 words of font info for 104 fonts, out of 8000000 for 9000
+ 29459 strings out of 478673
+ 692231 string characters out of 5849398
+ 1909018 words of memory out of 5000000
+ 48967 multiletter control sequences out of 15000+600000
+ 520820 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,24n,118p,2402b,1507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl2.pdf (28 pages).
+Output written on fasl2.pdf (32 pages).
