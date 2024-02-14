@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  5 FEB 2024 15:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  12 FEB 2024 06:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1494,20 +1494,28 @@ LaTeX Font Warning: Command \tiny invalid in math mode on input line 142.
 
 LaTeX Font Warning: Command \tiny invalid in math mode on input line 144.
 
+
+Overfull \hbox (31.2984pt too wide) in paragraph at lines 161--165
+[][]\TU/XBNiloofar(0)/m/n/12 دانشمندان بزرگ، می‌توانند با برسی دقیق اطلاعات و ی
+افته‌های موجود درباره \TU/XBNiloofar(0)/b/n/12 مواد \TU/XBNiloofar(0)/m/n/12 و 
+\TU/XBNiloofar(0)/b/n/12 پدیده‌ها\TU/XBNiloofar(0)/m/n/12 ی گوناگون،[]ها،[]ها[]
+
+ []
+
 [1
 
-] (./fasl1.aux)
+] [2] (./fasl1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28004 strings out of 478673
- 653645 string characters out of 5849397
- 1867018 words of memory out of 5000000
- 47537 multiletter control sequences out of 15000+600000
+ 28016 strings out of 478673
+ 653926 string characters out of 5849397
+ 1869018 words of memory out of 5000000
+ 47549 multiletter control sequences out of 15000+600000
  516983 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,22n,118p,2402b,1381s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,22n,118p,2402b,1382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl1.pdf (1 page).
+Output written on fasl1.pdf (2 pages).
