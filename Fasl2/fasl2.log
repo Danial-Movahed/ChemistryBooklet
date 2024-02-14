@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  14 FEB 2024 20:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  14 FEB 2024 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1495,7 +1495,7 @@ LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
 [1
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 313--315
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 [][]
  []
 
@@ -1503,24 +1503,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--315
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <5> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 358.
+ne 359.
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 476--486
+Underfull \hbox (badness 10000) in paragraph at lines 477--487
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--486
+Underfull \hbox (badness 10000) in paragraph at lines 477--487
 [][]
  []
 
 [6] [7] [8] [9] [10] [11] [12]
-Overfull \hbox (17.00366pt too wide) in paragraph at lines 752--754
+Overfull \hbox (17.00366pt too wide) in paragraph at lines 755--757
 [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 752--754
+Underfull \hbox (badness 10000) in paragraph at lines 755--757
 [][]
  []
 
@@ -1534,7 +1534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 752--754
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [15]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 809--821
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 812--824
 [][][]
  []
 
@@ -1542,13 +1542,13 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 809--821
 
 
 ]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 830--836
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 833--839
 [][][]
  []
 
 Missing character: There is no ۲ ("6F2) in font cmr8!
 ! Undefined control sequence.
-l.850 ...تان $\bigcirc$ اتانول \qquad\qquadآنتالپی
+l.853 ...تان $\bigcirc$ اتانول \qquad\qquadآنتالپی
                                                    سوختن: اتان $\bigcirc$ ات...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1557,29 +1557,29 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 859--862
+Underfull \hbox (badness 10000) in paragraph at lines 862--865
 [][]
  []
 
 [17] [18]
-Overfull \hbox (31.74329pt too wide) in paragraph at lines 878--891
+Overfull \hbox (31.74329pt too wide) in paragraph at lines 881--894
 [][][][] \TU/XBNiloofar(0)/m/n/12 بین چند آلکان (یا سایر هیدروکربن‌های هم خانوا
 ده) مقدار عددی آنتالپی سوختن ترکیبی بیشتر است که $\OML/cmm/m/it/12 ddfrac[][]$[
 ]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--897
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--897
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 892--897
+Underfull \hbox (badness 10000) in paragraph at lines 895--900
 [][]
  []
 
@@ -1587,33 +1587,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 892--897
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 952.
+ne 955.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 952.
+ne 955.
  [20]
-Underfull \hbox (badness 10000) in paragraph at lines 969--970
+Underfull \hbox (badness 10000) in paragraph at lines 972--973
 [][]
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1050--1053
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1056
 [][]
  []
 
 [22]
-Overfull \hbox (9.23862pt too wide) in paragraph at lines 1120--1149
+Overfull \hbox (9.23862pt too wide) in paragraph at lines 1123--1152
 [][][]
  []
 
 [23] [24]
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1227--1230
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1230--1233
 [][][]
  []
 
 
-Overfull \hbox (42.06241pt too wide) in paragraph at lines 1246--1246
+Overfull \hbox (42.06241pt too wide) in paragraph at lines 1249--1249
 [][][] []
  []
 
@@ -1674,12 +1674,12 @@ Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (135.35213pt too wide) in paragraph at lines 1246--1246
+Overfull \hbox (135.35213pt too wide) in paragraph at lines 1249--1249
 [][][] []
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 1246--1246
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1249--1249
 [][]$[]$ $[]$ []
  []
 
@@ -1740,43 +1740,43 @@ Missing character: There is no ن (U+0646) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (114.58351pt too wide) in paragraph at lines 1246--1246
+Overfull \hbox (114.58351pt too wide) in paragraph at lines 1249--1249
 []|$[]$ $[]$ []
  []
 
 
-Overfull \vbox (20.40005pt too high) detected at line 1246
+Overfull \vbox (20.40005pt too high) detected at line 1249
  []
 
 
-Underfull \hbox (badness 10000) detected at line 1246
+Underfull \hbox (badness 10000) detected at line 1249
 [] [][][]|[][][] 
  []
 
 [25] [26]
-Overfull \hbox (6.17543pt too wide) in paragraph at lines 1333--1349
+Overfull \hbox (6.17543pt too wide) in paragraph at lines 1336--1352
 []$[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/
 12 ^^@[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[] \OT1/cmr/m/n/12 = [] \OMS/cms
 y/m/n/12 ^^B [] [] ^^B [] \OT1/cmr/m/n/12 = [] []$ []
  []
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1403
 [][]
  []
 
 
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1387--1400
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1390--1403
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1403
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1400
+Underfull \hbox (badness 10000) in paragraph at lines 1390--1403
 [][]
  []
 
@@ -1789,90 +1789,90 @@ Missing character: There is no و ("648) in font cmr12!
 Missing character: There is no ل ("644) in font cmr12!
 Missing character: There is no ی ("6CC) in font cmr12!
 
-Overfull \hbox (42.44647pt too wide) in paragraph at lines 1415--1438
+Overfull \hbox (42.44647pt too wide) in paragraph at lines 1418--1441
 []$[]$[]
  []
 
 
-Overfull \hbox (4.97589pt too wide) in paragraph at lines 1415--1438
+Overfull \hbox (4.97589pt too wide) in paragraph at lines 1418--1441
 []\TU/XBNiloofar(0)/m/n/12 نتیجه: [] در[]
  []
 
 
-Overfull \hbox (13.2917pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (13.2917pt too wide) in paragraph at lines 1470--1470
 []\TU/XBNiloofar(0)/m/n/12 نمودار‌های[]
  []
 
 
-Overfull \hbox (1.77803pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (1.77803pt too wide) in paragraph at lines 1470--1470
 []\TU/XBNiloofar(0)/m/n/12 «غلظت[]
  []
 
 
-Overfull \hbox (16.86592pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (16.86592pt too wide) in paragraph at lines 1470--1470
 []\TU/XBNiloofar(0)/m/n/12 فرآورده‌های[]
  []
 
 
-Overfull \hbox (50.80022pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (50.80022pt too wide) in paragraph at lines 1470--1470
 []$[][][][] [][][]\OT1/cmr/m/n/12 s[][] []$[]
  []
 
 
-Overfull \hbox (26.68816pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (26.68816pt too wide) in paragraph at lines 1470--1470
 []$[][][][] [] [][] \OT1/cmr/m/n/12 +$[]
  []
 
 
-Overfull \hbox (16.4713pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (16.4713pt too wide) in paragraph at lines 1470--1470
 []$[][][][][][] [] []$[]
  []
 
 
-Overfull \hbox (109.94704pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (109.94704pt too wide) in paragraph at lines 1470--1470
  [][][][][] 
  []
 
 
-Overfull \hbox (105.93336pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (105.93336pt too wide) in paragraph at lines 1470--1470
  [][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1470
 []$[][][][] [][][]\OT1/cmr/m/n/12 s[][] []$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1470
 []$[][][][] [] [][] \OT1/cmr/m/n/12 +$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1467
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1470
 []$[][][][][][] [] []$ \TU/XBNiloofar(0)/m/n/12 رسم[]
  []
 
 
-Overfull \hbox (114.58316pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (114.58316pt too wide) in paragraph at lines 1470--1470
 []|$[]$ $[]$[]
  []
 
 
-Overfull \hbox (18.20955pt too wide) in paragraph at lines 1467--1467
+Overfull \hbox (18.20955pt too wide) in paragraph at lines 1470--1470
 []$[]$ []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1467
+Underfull \vbox (badness 10000) detected at line 1470
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1467
+Underfull \vbox (badness 10000) detected at line 1470
  []
 
 
-Underfull \hbox (badness 10000) detected at line 1467
+Underfull \hbox (badness 10000) detected at line 1470
 [] [][][]|[][][] [] [][][]|[][][] 
  []
 
@@ -1883,7 +1883,7 @@ Missing character: There is no ک ("6A9) in font cmr8!
 Missing character: There is no ن ("646) in font cmr8!
 Missing character: There is no ش ("634) in font cmr8!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1555--1563
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1566
 [][]
  []
 
