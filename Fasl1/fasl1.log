@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 17:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,6 +929,34 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \colbreak@box=\box163
 \mc@col@check@num=\count352
 )
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip142
+\multirow@cntb=\count353
+\multirow@dima=\skip143
+\bigstrutjot=\dimen345
+)
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen346
+\ar@mcellbox=\box164
+\extrarowheight=\dimen347
+\NC@list=\toks40
+\extratabsurround=\skip144
+\backup@length=\skip145
+\ar@cellbox=\box165
+)
+\TX@col@width=\dimen348
+\TX@old@table=\dimen349
+\TX@old@col=\dimen350
+\TX@target=\dimen351
+\TX@delta=\dimen352
+\TX@cols=\count354
+\TX@ftn=\toks41
+)
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.tex
 (/usr/share/texmf-dist/tex/generic/simplekv/simplekv.tex
@@ -936,25 +964,25 @@ Package: simplekv 2022/10/01 v0.2a Simple keyval package (CT)
 )
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen345
-\pgfarrowlength=\dimen346
-\pgfarrowwidth=\dimen347
-\pgfarrowlinewidth=\dimen348
+\pgfarrowinset=\dimen353
+\pgfarrowlength=\dimen354
+\pgfarrowwidth=\dimen355
+\pgfarrowlinewidth=\dimen356
 )
-\CF_cnt_atomgroup=\count353
-\CF_cnt_group=\count354
-\CF_cnt_atom=\count355
-\CF_cnt_cycle=\count356
-\CF_cnt_cyclebonds=\count357
-\CF_cnt_compound=\count358
-\CF_dim=\dimen349
-\CF_arrowsize=\dimen350
-\CF_zero=\dimen351
-\CF_box=\box164
-\CF_boxstuff=\box165
-\CF_testbox=\box166
-\CF_chargebox=\box167
-\CF_substtoks=\toks40
+\CF_cnt_atomgroup=\count355
+\CF_cnt_group=\count356
+\CF_cnt_atom=\count357
+\CF_cnt_cycle=\count358
+\CF_cnt_cyclebonds=\count359
+\CF_cnt_compound=\count360
+\CF_dim=\dimen357
+\CF_arrowsize=\dimen358
+\CF_zero=\dimen359
+\CF_box=\box166
+\CF_boxstuff=\box167
+\CF_testbox=\box168
+\CF_chargebox=\box169
+\CF_substtoks=\toks42
 )
 Package: chemfig 2023/02/18 v1.6d Draw molecule with an easy syntax (CT)
 ) (/usr/share/texmf-dist/tex/latex/bigfoot/perpage.sty
@@ -974,33 +1002,33 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 (/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2023/02/25 v3.4 ragged2e Package
-\CenteringLeftskip=\skip142
-\RaggedLeftLeftskip=\skip143
-\RaggedRightLeftskip=\skip144
-\CenteringRightskip=\skip145
-\RaggedLeftRightskip=\skip146
-\RaggedRightRightskip=\skip147
-\CenteringParfillskip=\skip148
-\RaggedLeftParfillskip=\skip149
-\RaggedRightParfillskip=\skip150
-\JustifyingParfillskip=\skip151
-\CenteringParindent=\skip152
-\RaggedLeftParindent=\skip153
-\RaggedRightParindent=\skip154
-\JustifyingParindent=\skip155
+\CenteringLeftskip=\skip146
+\RaggedLeftLeftskip=\skip147
+\RaggedRightLeftskip=\skip148
+\CenteringRightskip=\skip149
+\RaggedLeftRightskip=\skip150
+\RaggedRightRightskip=\skip151
+\CenteringParfillskip=\skip152
+\RaggedLeftParfillskip=\skip153
+\RaggedRightParfillskip=\skip154
+\JustifyingParfillskip=\skip155
+\CenteringParindent=\skip156
+\RaggedLeftParindent=\skip157
+\RaggedRightParindent=\skip158
+\JustifyingParindent=\skip159
 )
-\vwcol@sep=\skip156
-\vwcol@rule=\skip157
-\vwcol@totalwidth=\skip158
-\vwcol@averagewidth=\skip159
-\vwcol@parindent=\skip160
-\vwcol@last=\count359
-\vwcol@Ncols=\count360
-\vwcol@Nlines=\count361
-\vwcol@maxrecursion=\count362
-\vwcol@box=\box168
-\vwcol@plainbox=\box169
-\vwcol@outputbox=\box170
+\vwcol@sep=\skip160
+\vwcol@rule=\skip161
+\vwcol@totalwidth=\skip162
+\vwcol@averagewidth=\skip163
+\vwcol@parindent=\skip164
+\vwcol@last=\count361
+\vwcol@Ncols=\count362
+\vwcol@Nlines=\count363
+\vwcol@maxrecursion=\count364
+\vwcol@box=\box170
+\vwcol@plainbox=\box171
+\vwcol@outputbox=\box172
 )
 (/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
@@ -1008,17 +1036,17 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 (/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count363
-\l_MT_multwidth_dim=\dimen352
-\origjot=\skip161
-\l_MT_shortvdotswithinadjustabove_dim=\dimen353
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen354
-\l_MT_above_intertext_sep=\dimen355
-\l_MT_below_intertext_sep=\dimen356
-\l_MT_above_shortintertext_sep=\dimen357
-\l_MT_below_shortintertext_sep=\dimen358
-\xmathstrut@box=\box171
-\xmathstrut@dim=\dimen359
+\g_MT_multlinerow_int=\count365
+\l_MT_multwidth_dim=\dimen360
+\origjot=\skip165
+\l_MT_shortvdotswithinadjustabove_dim=\dimen361
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen362
+\l_MT_above_intertext_sep=\dimen363
+\l_MT_below_intertext_sep=\dimen364
+\l_MT_above_shortintertext_sep=\dimen365
+\l_MT_below_shortintertext_sep=\dimen366
+\xmathstrut@box=\box173
+\xmathstrut@dim=\dimen367
 )
 (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -1036,20 +1064,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count364
-\l__fontspec_language_int=\count365
-\l__fontspec_strnum_int=\count366
-\l__fontspec_tmp_int=\count367
-\l__fontspec_tmpa_int=\count368
-\l__fontspec_tmpb_int=\count369
-\l__fontspec_tmpc_int=\count370
-\l__fontspec_em_int=\count371
-\l__fontspec_emdef_int=\count372
-\l__fontspec_strong_int=\count373
-\l__fontspec_strongdef_int=\count374
-\l__fontspec_tmpa_dim=\dimen360
-\l__fontspec_tmpb_dim=\dimen361
-\l__fontspec_tmpc_dim=\dimen362
+\l__fontspec_script_int=\count366
+\l__fontspec_language_int=\count367
+\l__fontspec_strnum_int=\count368
+\l__fontspec_tmp_int=\count369
+\l__fontspec_tmpa_int=\count370
+\l__fontspec_tmpb_int=\count371
+\l__fontspec_tmpc_int=\count372
+\l__fontspec_em_int=\count373
+\l__fontspec_emdef_int=\count374
+\l__fontspec_strong_int=\count375
+\l__fontspec_strongdef_int=\count376
+\l__fontspec_tmpa_dim=\dimen368
+\l__fontspec_tmpb_dim=\dimen369
+\l__fontspec_tmpc_dim=\dimen370
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1057,43 +1085,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count375
-\XePersian@y=\count376
-\XePersian@m=\count377
-\XePersian@d=\count378
-\XePersian@latini=\count379
-\XePersian@persiani=\count380
-\XePersian@latinii=\count381
-\XePersian@persianii=\count382
-\XePersian@latiniii=\count383
-\XePersian@persianiii=\count384
-\XePersian@latiniv=\count385
-\XePersian@persianiv=\count386
-\XePersian@latinv=\count387
-\XePersian@persianv=\count388
-\XePersian@latinvi=\count389
-\XePersian@persianvi=\count390
-\XePersian@latinvii=\count391
-\XePersian@persianvii=\count392
-\XePersian@latinviii=\count393
-\XePersian@persianviii=\count394
-\XePersian@latinix=\count395
-\XePersian@persianix=\count396
-\XePersian@latinx=\count397
-\XePersian@persianx=\count398
-\XePersian@latinxi=\count399
-\XePersian@persianxi=\count400
-\XePersian@latinxii=\count401
-\XePersian@persianxii=\count402
-\XePersian@persianxiii=\count403
-\XePersian@temp=\count404
-\XePersian@temptwo=\count405
-\XePersian@tempthree=\count406
-\XePersian@yModHundred=\count407
-\XePersian@thirtytwo=\count408
-\XePersian@dn=\count409
-\XePersian@sn=\count410
-\XePersian@mminusone=\count411
+\XePersian@i=\count377
+\XePersian@y=\count378
+\XePersian@m=\count379
+\XePersian@d=\count380
+\XePersian@latini=\count381
+\XePersian@persiani=\count382
+\XePersian@latinii=\count383
+\XePersian@persianii=\count384
+\XePersian@latiniii=\count385
+\XePersian@persianiii=\count386
+\XePersian@latiniv=\count387
+\XePersian@persianiv=\count388
+\XePersian@latinv=\count389
+\XePersian@persianv=\count390
+\XePersian@latinvi=\count391
+\XePersian@persianvi=\count392
+\XePersian@latinvii=\count393
+\XePersian@persianvii=\count394
+\XePersian@latinviii=\count395
+\XePersian@persianviii=\count396
+\XePersian@latinix=\count397
+\XePersian@persianix=\count398
+\XePersian@latinx=\count399
+\XePersian@persianx=\count400
+\XePersian@latinxi=\count401
+\XePersian@persianxi=\count402
+\XePersian@latinxii=\count403
+\XePersian@persianxii=\count404
+\XePersian@persianxiii=\count405
+\XePersian@temp=\count406
+\XePersian@temptwo=\count407
+\XePersian@tempthree=\count408
+\XePersian@yModHundred=\count409
+\XePersian@thirtytwo=\count410
+\XePersian@dn=\count411
+\XePersian@sn=\count412
+\XePersian@mminusone=\count413
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -1132,29 +1160,29 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/share/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks41
-\@bidi@emptytoks=\toks42
-\bidi@poscount=\count412
-\bidi@tempcountb=\count413
-\bidi@temptoksa=\toks43
-\bidi@temptoksb=\toks44
-\bidi@dummies=\count414
-\bidi@are@these@correct=\toks45
-\bidi@toks@lista=\toks46
-\bidi@toks@listb=\toks47
-\bidi@stack@length=\count415
-\bidi@empty@stack=\toks48
-\bidi@looprepeat@depth=\count416
+\@bidi@envbody=\toks43
+\@bidi@emptytoks=\toks44
+\bidi@poscount=\count414
+\bidi@tempcountb=\count415
+\bidi@temptoksa=\toks45
+\bidi@temptoksb=\toks46
+\bidi@dummies=\count416
+\bidi@are@these@correct=\toks47
+\bidi@toks@lista=\toks48
+\bidi@toks@listb=\toks49
+\bidi@stack@length=\count417
+\bidi@empty@stack=\toks50
+\bidi@looprepeat@depth=\count418
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks49
-\XKV@tempa@toks=\toks50
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count417
+\XKV@depth=\count419
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -1162,14 +1190,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/share/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks51
-\bidi@column@check@number=\count418
+\bidi@n@everypar=\toks53
+\bidi@column@check@number=\count420
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count419
-\footdir@toks=\toks52
+\c@footdir@label=\count421
+\footdir@toks=\toks54
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
 File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
@@ -1206,6 +1234,10 @@ kage for XeTeX engine
 File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
 kage for XeTeX engine
 )
+(/usr/share/texmf-dist/tex/xelatex/bidi/tabularx-xetex-bidi.def
+File: tabularx-xetex-bidi.def 2014/11/08 v0.1 bidi adaptations for tabularx pac
+kage for XeTeX engine
+)
 (/usr/share/texmf-dist/tex/xelatex/bidi/fancybox-xetex-bidi.def
 File: fancybox-xetex-bidi.def 2013/05/01 v0.1 bidi adaptations for fancybox pac
 kage for XeTeX engine
@@ -1217,6 +1249,10 @@ kage for XeTeX engine
 (/usr/share/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.def
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
 f package for XeTeX engine
+)
+(/usr/share/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def
+File: array-xetex-bidi.def 2015/11/07 v0.3 bidi adaptations for array package f
+or XeTeX engine
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
 File: multicol-xetex-bidi.def 2022/07/10 v1.4 bidi adaptations for multicol pac
@@ -1234,7 +1270,7 @@ kage for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count420
+\bidi@digits=\count422
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1263,9 +1299,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count421
-\xepersian@ilg=\dimen363
-\xepersian@strutilg=\dimen364
+\xepersian@tcl=\count423
+\xepersian@ilg=\dimen371
+\xepersian@strutilg=\dimen372
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -1380,37 +1416,37 @@ tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 66.
+'XB Niloofar' on input line 68.
 \symOPERATORS=\mathgroup4
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
 \symnew@mathrm@font@digits=\mathgroup7
-\c@pp@a@footnote=\count422
+\c@pp@a@footnote=\count424
 
 (./fasl1.aux)
 \openout1 = `fasl1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
-0.
+2.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1451,42 +1487,39 @@ Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
 
 )
 
-Package chemgreek Info: Activating mapping `fontspec' on line 90.
+Package chemgreek Info: Activating mapping `fontspec' on line 92.
 
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/XBNiloofar(0)/m/n --> TS1/XBNiloofar(0)/b/n on inpu
-t line 90.
-Package gensymb Info: Math companion symbols declared on input line 90.
-LaTeX Info: Redefining \degree on input line 90.
-LaTeX Info: Redefining \celsius on input line 90.
+t line 92.
+Package gensymb Info: Math companion symbols declared on input line 92.
+LaTeX Info: Redefining \degree on input line 92.
+LaTeX Info: Redefining \celsius on input line 92.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 90.
-LaTeX Info: Redefining \ohm on input line 90.
-Package gensymb Info: Using \textohm for \ohm on input line 90.
-Package gensymb Info: Using \textmu for \micro on input line 90.
+erthousand on input line 92.
+LaTeX Info: Redefining \ohm on input line 92.
+Package gensymb Info: Using \textohm for \ohm on input line 92.
+Package gensymb Info: Using \textmu for \micro on input line 92.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <12> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 94.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <8> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 94.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <6> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 92.
+ne 94.
 LaTeX Font Info:    Trying to load font information for TS1+XBNiloofar(0) on in
-put line 92.
-LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 92.
+put line 94.
+LaTeX Font Info:    No file TS1XBNiloofar(0).fd. on input line 94.
 
 
 LaTeX Font Warning: Font shape `TS1/XBNiloofar(0)/m/n' undefined
-(Font)              using `TS1/cmr/m/n' instead on input line 92.
-
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 152.
+(Font)              using `TS1/cmr/m/n' instead on input line 94.
 
 
 LaTeX Font Warning: Command \tiny invalid in math mode on input line 154.
@@ -1494,34 +1527,37 @@ LaTeX Font Warning: Command \tiny invalid in math mode on input line 154.
 
 LaTeX Font Warning: Command \tiny invalid in math mode on input line 156.
 
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 158.
+
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 179--191
+Underfull \hbox (badness 10000) in paragraph at lines 181--193
 [][]
  []
 
 
-Overfull \hbox (11.73236pt too wide) in paragraph at lines 200--204
+Overfull \hbox (11.73236pt too wide) in paragraph at lines 202--206
 [][][][]
  []
 
 [2]
-Overfull \hbox (42.3029pt too wide) in paragraph at lines 309--323
+Overfull \hbox (42.3029pt too wide) in paragraph at lines 311--325
 [][][] $[]$[]
  []
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10.95> not avai
 lable
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 342.
+ne 344.
 
-Overfull \hbox (59.72842pt too wide) in paragraph at lines 339--349
+Overfull \hbox (59.72842pt too wide) in paragraph at lines 341--351
 [][][] []
  []
 
 
-Overfull \hbox (35.46964pt too wide) in paragraph at lines 352--363
+Overfull \hbox (35.46964pt too wide) in paragraph at lines 354--365
 [][][] []
  []
 
@@ -1529,91 +1565,92 @@ Overfull \hbox (35.46964pt too wide) in paragraph at lines 352--363
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 416.
+ne 418.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 416.
+ne 418.
 
 
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 41
-9.
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 42
+1.
 
 
-Overfull \hbox (4.22653pt too wide) in paragraph at lines 434--435
+Overfull \hbox (4.22653pt too wide) in paragraph at lines 436--437
 [][][] []
  []
 
 
-Overfull \hbox (21.85863pt too wide) in paragraph at lines 436--451
+Overfull \hbox (21.85863pt too wide) in paragraph at lines 438--453
 [][][] $[]$[]
  []
 
 [4]
-Overfull \hbox (420.60204pt too wide) in paragraph at lines 527--535
+Overfull \hbox (420.60204pt too wide) in paragraph at lines 529--537
 [][]$[]$ []
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 582--587
+Underfull \hbox (badness 10000) in paragraph at lines 584--589
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--587
+Underfull \hbox (badness 10000) in paragraph at lines 584--589
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 582--587
+Underfull \hbox (badness 10000) in paragraph at lines 584--589
 [][]
  []
 
 
-Overfull \hbox (40.65038pt too wide) in paragraph at lines 601--603
+Overfull \hbox (40.65038pt too wide) in paragraph at lines 603--605
 [][][] []
  []
 
 
-Overfull \hbox (8.90048pt too wide) in paragraph at lines 607--623
+Overfull \hbox (10.10046pt too wide) in paragraph at lines 609--625
 [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--623
+Underfull \hbox (badness 10000) in paragraph at lines 609--625
 [][]
  []
 
 [6]
-Overfull \hbox (43.1274pt too wide) in paragraph at lines 658--669
+Overfull \hbox (43.1274pt too wide) in paragraph at lines 660--671
 [][]$[]$ [] []
  []
 
 [7]
-Overfull \hbox (333.84743pt too wide) in paragraph at lines 731--741
-[]\TU/XBNiloofar(0)/m/n/12 را دارد. نمونه: (شکل‌های حاشیه صفحه \TU/XBNiloofar(1
-)/m/n/12 ۱۴\TU/XBNiloofar(0)/m/n/12 ) $[]$ []
+Overfull \hbox (41.8667pt too wide) in paragraph at lines 735--750
+[][]$[]$ []
  []
 
-[8] [9]
+[8]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 883--890
+[][][] []
+ []
+
+[9]
 Missing character: There is no ○ (U+25CB) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[10] [11]
+[10] [11] [12]
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[12]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[13]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-[13] [14]
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-[15]
+[14] [15]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1623,17 +1660,19 @@ nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 [16]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 [17]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1648,10 +1687,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28283 strings out of 478673
- 661076 string characters out of 5849397
+ 28491 strings out of 478673
+ 664886 string characters out of 5849397
  1880018 words of memory out of 5000000
- 47795 multiletter control sequences out of 15000+600000
+ 47989 multiletter control sequences out of 15000+600000
  520067 words of font info for 108 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,31n,118p,2402b,1517s stack positions out of 10000i,1000n,20000p,200000b,200000s
