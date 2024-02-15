@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 15:27
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1550,10 +1550,10 @@ Overfull \hbox (21.85863pt too wide) in paragraph at lines 436--451
  []
 
 [4]
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
+Overfull \hbox (420.60204pt too wide) in paragraph at lines 527--535
+[][]$[]$ []
+ []
+
 [5]
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
@@ -1563,6 +1563,7 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
+[6]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1571,15 +1572,14 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[6] [7] [8]
+[7] [8]
 Missing character: There is no ○ (U+25CB) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[9] [10]
+[9] [10] [11]
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[11]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1596,15 +1596,16 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
 [15]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[16]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1617,7 +1618,7 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ⇄ (U+21C4) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[16] [17] [18] (./fasl1.aux)
+[17] [18] (./fasl1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
