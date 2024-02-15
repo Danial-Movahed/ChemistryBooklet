@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 09:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1497,6 +1497,15 @@ LaTeX Font Warning: Command \tiny invalid in math mode on input line 156.
 [1
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 179--191
+[][]
+ []
+
+
+Overfull \hbox (11.73236pt too wide) in paragraph at lines 200--204
+[][][][]
+ []
+
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 [2]
@@ -1530,9 +1539,9 @@ nguage=dflt;script=arab;mapping=persian-tex-text;!
 [8] [9]
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
+[10]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[10]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1562,6 +1571,7 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
+[15]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1570,7 +1580,7 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ⇄ (U+21C4) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[15] [16] [17] (./fasl1.aux)
+[16] [17] (./fasl1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1578,10 +1588,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  28209 strings out of 478673
  658742 string characters out of 5849397
- 1873018 words of memory out of 5000000
+ 1869018 words of memory out of 5000000
  47738 multiletter control sequences out of 15000+600000
  517573 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,22n,118p,2402b,1382s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,28n,118p,2402b,1382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on fasl1.pdf (17 pages).
