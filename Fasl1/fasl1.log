@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 16:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.11)  15 FEB 2024 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1585,10 +1585,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 607--623
  []
 
 [6]
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
+Overfull \hbox (43.1274pt too wide) in paragraph at lines 658--669
+[][]$[]$ [] []
+ []
+
+[7]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1597,14 +1598,10 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-[7] [8]
+[8] [9]
 Missing character: There is no ○ (U+25CB) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[9] [10] [11]
+[10] [11]
 Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1619,8 +1616,6 @@ nguage=dflt;script=arab;mapping=persian-tex-text;!
 [13] [14]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
 [15]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
@@ -1628,17 +1623,20 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 [16]
-Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[17]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
@@ -1647,18 +1645,18 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no ⇄ (U+21C4) in font XB Niloofar/OT:script=latn;la
 nguage=dflt;script=arab;mapping=persian-tex-text;!
-[17] [18] (./fasl1.aux)
+[18] [19] (./fasl1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 28271 strings out of 478673
- 660783 string characters out of 5849397
+ 28283 strings out of 478673
+ 661076 string characters out of 5849397
  1880018 words of memory out of 5000000
- 47783 multiletter control sequences out of 15000+600000
+ 47795 multiletter control sequences out of 15000+600000
  520067 words of font info for 108 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,31n,118p,2402b,1517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,31n,118p,2402b,1520s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on fasl1.pdf (18 pages).
+Output written on fasl1.pdf (19 pages).
