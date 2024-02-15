@@ -1562,12 +1562,6 @@ Overfull \hbox (35.46964pt too wide) in paragraph at lines 354--365
  []
 
 [3]
-
-LaTeX Warning: Reference `footdir@1' on page 4 undefined on input line 418.
-
-
-LaTeX Warning: Reference `footdir@2' on page 4 undefined on input line 418.
-
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
@@ -1576,6 +1570,7 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
 ne 418.
+
 
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 42
 1.
@@ -1589,9 +1584,6 @@ Overfull \hbox (4.22653pt too wide) in paragraph at lines 436--437
 Overfull \hbox (21.85863pt too wide) in paragraph at lines 438--453
 [][][] $[]$[]
  []
-
-
-LaTeX Warning: Reference `footdir@3' on page 4 undefined on input line 475.
 
 [4]
 Overfull \hbox (41.8667pt too wide) in paragraph at lines 529--541
@@ -1670,4 +1662,54 @@ Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;l
 nguage=dflt;script=arab;mapping=persian-tex-text;!
 [13]
 Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
-nguage=dflt;script=arab;mapping=persian-te
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[14] [15]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[16]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ≡ (U+2261) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[17]
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ← (U+2190) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ⇄ (U+21C4) in font XB Niloofar/OT:script=latn;la
+nguage=dflt;script=arab;mapping=persian-tex-text;!
+[18] [19] (./fasl1.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28493 strings out of 478673
+ 664995 string characters out of 5849397
+ 1880018 words of memory out of 5000000
+ 47990 multiletter control sequences out of 15000+600000
+ 520075 words of font info for 109 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 115i,31n,118p,2402b,1517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on fasl1.pdf (19 pages).
