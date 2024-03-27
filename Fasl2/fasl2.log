@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  27 MAR 2024 13:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  27 MAR 2024 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1842,7 +1842,55 @@ Missing character: There is no ا ("627) in font cmr8!
 Missing character: There is no ک ("6A9) in font cmr8!
 Missing character: There is no ن ("646) in font cmr8!
 Missing character: There is no ش ("634) in font cmr8!
-[25] [26] [27] [28] (./fasl2.aux)
+[25] [26] [27]
+Missing character: There is no م ("645) in font cmmi12!
+Missing character: There is no ق ("642) in font cmmi12!
+Missing character: There is no د ("62F) in font cmmi12!
+Missing character: There is no ا ("627) in font cmmi12!
+Missing character: There is no ر ("631) in font cmmi12!
+Missing character: There is no ا ("627) in font cmmi12!
+Missing character: There is no و ("648) in font cmmi12!
+Missing character: There is no ل ("644) in font cmmi12!
+Missing character: There is no ی ("6CC) in font cmmi12!
+Missing character: There is no ه ("647) in font cmmi12!
+Missing character: There is no و ("648) in font cmmi12!
+Missing character: There is no ا ("627) in font cmmi12!
+Missing character: There is no ک ("6A9) in font cmmi12!
+Missing character: There is no ن ("646) in font cmmi12!
+Missing character: There is no ش ("634) in font cmmi12!
+Missing character: There is no ‌ ("200C) in font cmr12!
+Missing character: There is no د ("62F) in font cmmi12!
+Missing character: There is no ه ("647) in font cmmi12!
+Missing character: There is no ن ("646) in font cmmi12!
+Missing character: There is no د ("62F) in font cmmi12!
+Missing character: There is no ه ("647) in font cmmi12!
+Missing character: There is no ‌ ("200C) in font cmr12!
+Missing character: There is no ه ("647) in font cmmi12!
+Missing character: There is no ا ("627) in font cmmi12!
+Missing character: There is no ض ("636) in font cmmi12!
+Missing character: There is no ر ("631) in font cmmi12!
+Missing character: There is no ی ("6CC) in font cmmi12!
+Missing character: There is no ب ("628) in font cmmi12!
+Missing character: There is no ا ("627) in font cmmi12!
+Missing character: There is no س ("633) in font cmmi12!
+Missing character: There is no ت ("62A) in font cmmi12!
+Missing character: There is no و ("648) in font cmmi12!
+Missing character: There is no ک ("6A9) in font cmmi12!
+Missing character: There is no ی ("6CC) in font cmmi12!
+Missing character: There is no و ("648) in font cmmi12!
+Missing character: There is no م ("645) in font cmmi12!
+Missing character: There is no ت ("62A) in font cmmi12!
+Missing character: There is no ر ("631) in font cmmi12!
+Missing character: There is no ی ("6CC) in font cmmi12!
+Missing character: There is no د ("62F) in font cmmi8!
+Missing character: There is no ف ("641) in font cmmi8!
+Missing character: There is no ن ("646) in font cmmi8!
+Missing character: There is no ب ("628) in font cmmi8!
+Missing character: There is no ر ("631) in font cmmi8!
+Missing character: There is no گ ("6AF) in font cmmi8!
+Missing character: There is no ش ("634) in font cmmi8!
+Missing character: There is no ت ("62A) in font cmmi8!
+[28] (./fasl2.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
