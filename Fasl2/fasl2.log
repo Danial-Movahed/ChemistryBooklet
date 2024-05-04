@@ -1,24 +1,24 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.2.5)  27 MAR 2024 13:44
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.4.25)  4 MAY 2024 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **fasl2.tex
 (./fasl2.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count181
-\c@section=\count182
-\c@subsection=\count183
-\c@subsubsection=\count184
-\c@paragraph=\count185
-\c@subparagraph=\count186
-\c@figure=\count187
-\c@table=\count188
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -28,7 +28,7 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
 (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -36,9 +36,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count189
-\Gm@cntv=\count190
-\c@Gm@tempcnt=\count191
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -47,7 +47,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen146
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks18
 )
 (/usr/share/texmf-dist/tex/latex/tikz-page/tikz-page.sty
 Package: tikz-page 2016/08/22 (v1.0)
@@ -69,7 +69,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks18
+\pgfutil@everybye=\toks19
 \pgfutil@tempdima=\dimen149
 \pgfutil@tempdimb=\dimen150
 )
@@ -108,12 +108,12 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
 
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
 x
-\pgfkeys@tmptoks=\toks21
+\pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen153
 \pgf@y=\dimen154
@@ -127,14 +127,14 @@ x
 \pgf@yd=\dimen162
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count192
-\c@pgf@countb=\count193
-\c@pgf@countc=\count194
-\c@pgf@countd=\count195
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
-\pgf@sys@id@count=\count196
+\c@pgf@counta=\count195
+\c@pgf@countb=\count196
+\c@pgf@countc=\count197
+\c@pgf@countd=\count198
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count199
  (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -149,33 +149,33 @@ File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
-\pgfsys@objnum=\count197
+\pgfsys@objnum=\count266
 )))
 (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count198
-\pgfsyssoftpath@bigbuffer@items=\count199
+\pgfsyssoftpath@smallbuffer@items=\count267
+\pgfsyssoftpath@bigbuffer@items=\count268
 )
 (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
 (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Driver file: xetex.def on input line 274.
 
 (/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
@@ -184,11 +184,11 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen163
-\pgfmath@count=\count266
+\pgfmath@count=\count269
 \pgfmath@box=\box52
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
 )
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
@@ -202,7 +202,7 @@ x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
 .code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count267
+\c@pgfmathroundto@lastzeros=\count270
 ))
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
@@ -236,7 +236,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box53
 \pgf@hbox=\box54
 \pgf@layerbox@main=\box55
-\pgf@picture@serial@count=\count268
+\pgf@picture@serial@count=\count271
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -264,8 +264,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen187
-\pgf@sys@shading@range@num=\count269
-\pgf@shadingcount=\count270
+\pgf@sys@shading@range@num=\count272
+\pgf@shadingcount=\count273
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -309,8 +309,8 @@ Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen190
 \pgffor@skip=\dimen191
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
 ))
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
@@ -318,7 +318,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
 x
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count271
+\pgf@plot@mark@count=\count274
 \pgfplotmarksize=\dimen192
 )
 \tikz@lastx=\dimen193
@@ -333,17 +333,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box59
 \tikz@tempbox=\box60
 \tikz@tempbox@bg=\box61
-\tikztreelevel=\count272
-\tikznumberofchildren=\count273
-\tikznumberofcurrentchild=\count274
-\tikz@fig@count=\count275
+\tikztreelevel=\count275
+\tikznumberofchildren=\count276
+\tikznumberofcurrentchild=\count277
+\tikz@fig@count=\count278
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count276
-\pgfmatrixcurrentcolumn=\count277
-\pgf@matrix@numberofcolumns=\count278
+\pgfmatrixcurrentrow=\count279
+\pgfmatrixcurrentcolumn=\count280
+\pgf@matrix@numberofcolumns=\count281
 )
-\tikz@expandcount=\count279
+\tikz@expandcount=\count282
 
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 topaths.code.tex
@@ -442,7 +442,7 @@ decorations.code.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen259
 \pgfdecoratedinputsegmentremainingdistance=\dimen260
 \pgf@decorate@distancetomove=\dimen261
-\pgf@decorate@repeatstate=\count280
+\pgf@decorate@repeatstate=\count283
 \pgfdecorationsegmentamplitude=\dimen262
 \pgfdecorationsegmentlength=\dimen263
 )
@@ -454,16 +454,16 @@ ons.text.code.tex
 )
 \tikz@lib@dec@te@box=\box84
 ) (/usr/share/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count281
-\calc@Bcount=\count282
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count284
+\calc@Bcount=\count285
 \calc@Adimen=\dimen264
 \calc@Bdimen=\dimen265
 \calc@Askip=\skip59
 \calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count283
+\calc@Ccount=\count286
 \calc@Cskip=\skip61
 )
 \@tp@left@margin=\skip62
@@ -534,10 +534,10 @@ Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \@fancybox=\box85
 \shadowsize=\dimen268
 \@Sbox=\box86
-\do@VerbBox=\toks30
-\the@fancyput=\toks31
-\this@fancyput=\toks32
-\EndVerbatimTokens=\toks33
+\do@VerbBox=\toks31
+\the@fancyput=\toks32
+\this@fancyput=\toks33
+\EndVerbatimTokens=\toks34
 \Verbatim@Outfile=\write4
 \Verbatim@Infile=\read3
 ) (/usr/share/texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex
@@ -553,24 +553,24 @@ File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
-\pgfbs@fading@count=\count284
+\pgfbs@fading@count=\count287
 ) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip120
 \enit@outerparindent=\dimen269
-\enit@toks=\toks34
+\enit@toks=\toks35
 \enit@inbox=\box87
-\enit@count@id=\count285
-\enitdp@description=\count286
+\enit@count@id=\count288
+\enitdp@description=\count289
 )
 (/usr/share/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
 
 (/usr/share/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
 
 (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -598,29 +598,25 @@ Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\c@abspage=\count287
-Package zref Info: New property: abspage on input line 65.
+\c@abspage=\count290
+Package zref Info: New property: abspage on input line 67.
 )
 (/usr/share/texmf-dist/tex/latex/tabularray/tabularray.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
+Package: expl3 2024-02-20 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
-\g__graphics_track_int=\count288
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count291
 \l__pdf_internal_box=\box88
-\g__pdf_backend_object_int=\count289
-\g__pdf_backend_annotation_int=\count290
-\g__pdf_backend_link_int=\count291
+\g__pdf_backend_object_int=\count292
+\g__pdf_backend_annotation_int=\count293
+\g__pdf_backend_link_int=\count294
 ))
-Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
-\l__tblr_a_int=\count292
-\l__tblr_c_int=\count293
-\l__tblr_r_int=\count294
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count295
+\l__tblr_c_int=\count296
+\l__tblr_r_int=\count297
 \l__tblr_d_dim=\dimen270
 \l__tblr_h_dim=\dimen271
 \l__tblr_o_dim=\dimen272
@@ -635,25 +631,25 @@ Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
 \l__tblr_b_box=\box90
 \l__tblr_c_box=\box91
 \l__tblr_d_box=\box92
-\g__tblr_table_count_int=\count295
-\c@rownum=\count296
-\c@colnum=\count297
-\c@rowcount=\count298
-\c@colcount=\count299
+\g__tblr_table_count_int=\count298
+\c@rownum=\count299
+\c@colnum=\count300
+\c@rowcount=\count301
+\c@colcount=\count302
 \abovesep=\dimen280
 \belowsep=\dimen281
 \leftsep=\dimen282
 \rightsep=\dimen283
-\g_tblr_level_int=\count300
-\g__tblr_data_row_key_count_int=\count301
-\g__tblr_data_column_key_count_int=\count302
-\g__tblr_data_cell_key_count_int=\count303
-\g__tblr_array_int=\count304
-\l__tblr_key_count_int=\count305
-\l__tblr_key_quotient_int=\count306
-\l__tblr_key_quotient_two_int=\count307
-\l__tblr_key_remainder_int=\count308
-\g__tblr_data_str_value_count_int=\count309
+\g_tblr_level_int=\count303
+\g__tblr_data_row_key_count_int=\count304
+\g__tblr_data_column_key_count_int=\count305
+\g__tblr_data_cell_key_count_int=\count306
+\g__tblr_array_int=\count307
+\l__tblr_key_count_int=\count308
+\l__tblr_key_quotient_int=\count309
+\l__tblr_key_quotient_two_int=\count310
+\l__tblr_key_remainder_int=\count311
+\g__tblr_data_str_value_count_int=\count312
 \rulewidth=\dimen284
 \l__tblr_strut_dp_dim=\dimen285
 \l__tblr_strut_ht_dim=\dimen286
@@ -675,11 +671,11 @@ Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
 \l__tblr_table_middlefoot_box=\box101
 \l__tblr_table_lastfoot_box=\box102
 \l__tblr_remain_height_dim=\dimen294
-\l__tblr_long_from_int=\count310
-\l__tblr_long_to_int=\count311
-\l__tblr_curr_i_int=\count312
-\l__tblr_prev_i_int=\count313
-\l__tblr_table_page_int=\count314
+\l__tblr_long_from_int=\count313
+\l__tblr_long_to_int=\count314
+\l__tblr_curr_i_int=\count315
+\l__tblr_prev_i_int=\count316
+\l__tblr_table_page_int=\count317
 \l__tblr_table_head_box=\box103
 \l__tblr_table_foot_box=\box104
 \l__tblr_table_head_foot_dim=\dimen295
@@ -717,13 +713,13 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \pb@xlen=\skip121
 )
 (/usr/share/texmf-dist/tex/latex/mhchem/mhchem.sty
-Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
 
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
 )
 (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip122
 
 For additional information on amsmath, use the `?' option.
@@ -732,7 +728,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks35
+\@emptytoks=\toks36
 \ex@=\dimen312
 ))
 (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -742,14 +738,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count315
+\inf@bad=\count318
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count316
-\leftroot@=\count317
+\uproot@=\count319
+\leftroot@=\count320
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count318
-\DOTSCASE@=\count319
+\classnum@=\count321
+\DOTSCASE@=\count322
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -762,44 +758,44 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen314
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count320
+\macc@depth=\count323
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count321
+\c@MaxMatrixCols=\count324
 \dotsspace@=\muskip16
-\c@parentequation=\count322
-\dspbrk@lvl=\count323
-\tag@help=\toks36
-\row@=\count324
-\column@=\count325
-\maxfields@=\count326
-\andhelp@=\toks37
+\c@parentequation=\count325
+\dspbrk@lvl=\count326
+\tag@help=\toks37
+\row@=\count327
+\column@=\count328
+\maxfields@=\count329
+\andhelp@=\toks38
 \eqnshift@=\dimen315
 \alignsep@=\dimen316
 \tagshift@=\dimen317
 \tagwidth@=\dimen318
 \totwidth@=\dimen319
 \lineht@=\dimen320
-\@envbody=\toks38
+\@envbody=\toks39
 \multlinegap=\skip123
 \multlinetaggap=\skip124
-\mathdisplay@stack=\toks39
+\mathdisplay@stack=\toks40
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/share/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2024-02-18 L3 Experimental document command parser
 )
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
  in chemistry (CN)
-\l__chemgreek_tmpa_int=\count327
-\g__chemgreek_tmpa_int=\count328
+\l__chemgreek_tmpa_int=\count330
+\g__chemgreek_tmpa_int=\count331
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count329
+\l__mhchem_ce_distanceFromLastComma_int=\count332
 \__mhchem_arrow_extPgfLength_skip=\skip125
 \mhchem@minispace@tmp=\skip126
 \mhchem@minibackspace@tmp=\skip127
@@ -810,7 +806,7 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@smallbondwidth=\skip132
 \mhchem@bondtmp@minussidebearingleft=\skip133
 \mhchem@bondtmp@minussidebearingright=\skip134
-\l__mhchem_option_version_int=\count330
+\l__mhchem_option_version_int=\count333
 \mhchem@option@minusmathsidebearingleft=\dimen321
 \mhchem@option@minusmathsidebearingright=\dimen322
 \mhchem@option@minustextsidebearingleft=\dimen323
@@ -818,21 +814,22 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 )
 (/usr/share/texmf-dist/tex/latex/tasks/tasks.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
-Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
+(/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-2023-10-10.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen325
-\l__xtemplate_tmp_int=\count331
+\l__xtemplate_tmp_int=\count334
 \l__xtemplate_tmp_muskip=\muskip17
 \l__xtemplate_tmp_skip=\skip135
-)
+))
 Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
-\g__tasks_total_items_int=\count332
-\l__tasks_columns_int=\count333
-\g__tasks_rows_int=\count334
-\g__tasks_current_col_num_int=\count335
-\g__tasks_current_row_num_int=\count336
-\l__tasks_item_columns_int=\count337
-\g__tasks_env_int=\count338
-\l__tasks_start_int=\count339
+\g__tasks_total_items_int=\count335
+\l__tasks_columns_int=\count336
+\g__tasks_rows_int=\count337
+\g__tasks_current_col_num_int=\count338
+\g__tasks_current_row_num_int=\count339
+\l__tasks_item_columns_int=\count340
+\g__tasks_env_int=\count341
+\l__tasks_start_int=\count342
 \l__tasks_item_indent_dim=\dimen326
 \l__tasks_item_default_indent_dim=\dimen327
 \l__tasks_item_width_dim=\dimen328
@@ -849,27 +846,26 @@ Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
 \l__tasks_after_list_skip=\skip139
 \l__tasks_item_coffin=\box115
 \l__tasks_label_coffin=\box116
-\c@task=\count340
-\l__tasks_tmpa_int=\count341
-\l__tasks_tmpb_int=\count342
+\c@task=\count343
+\l__tasks_tmpa_int=\count344
+\l__tasks_tmpb_int=\count345
 \l__tasks_tmpa_coffin=\box117
 \l__tasks_tmpa_box=\box118
 
 Package xtemplate Info: Declaring object type 'tasks' taking 3 argument(s) on
 (xtemplate)             line 450.
 
-
-(/usr/share/texmf-dist/tex/latex/tasks/tasks.cfg))
+ (/usr/share/texmf-dist/tex/latex/tasks/tasks.cfg))
 (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count343
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count346
 \mult@box=\box119
 \multicol@leftmargin=\dimen336
-\c@unbalance=\count344
-\c@collectmore=\count345
-\doublecol@number=\count346
-\multicoltolerance=\count347
-\multicolpretolerance=\count348
+\c@unbalance=\count347
+\c@collectmore=\count348
+\doublecol@number=\count349
+\multicoltolerance=\count350
+\multicolpretolerance=\count351
 \full@width=\dimen337
 \page@free=\dimen338
 \premulticols=\dimen339
@@ -878,12 +874,12 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \multicolbaselineskip=\skip141
 \partial@page=\box120
 \last@line=\box121
+\mc@boxedresult=\box122
 \maxbalancingoverflow=\dimen341
-\mult@rightbox=\box122
-\mult@grightbox=\box123
-\mult@firstbox=\box124
-\mult@gfirstbox=\box125
-\@tempa=\box126
+\mult@rightbox=\box123
+\mult@grightbox=\box124
+\mult@firstbox=\box125
+\mult@gfirstbox=\box126
 \@tempa=\box127
 \@tempa=\box128
 \@tempa=\box129
@@ -919,20 +915,21 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box159
 \@tempa=\box160
 \@tempa=\box161
-\c@minrows=\count349
-\c@columnbadness=\count350
-\c@finalcolumnbadness=\count351
+\@tempa=\box162
+\c@minrows=\count352
+\c@columnbadness=\count353
+\c@finalcolumnbadness=\count354
 \last@try=\dimen342
 \multicolovershoot=\dimen343
 \multicolundershoot=\dimen344
-\mult@nat@firstbox=\box162
-\colbreak@box=\box163
-\mc@col@check@num=\count352
+\mult@nat@firstbox=\box163
+\colbreak@box=\box164
+\mc@col@check@num=\count355
 )
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.sty
 (/usr/share/texmf-dist/tex/generic/chemfig/chemfig.tex
 (/usr/share/texmf-dist/tex/generic/simplekv/simplekv.tex
-Package: simplekv 2022/10/01 v0.2a Simple keyval package (CT)
+Package: simplekv 2023/10/02 v0.2c Simple keyval package (CT)
 )
 (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -941,22 +938,23 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowwidth=\dimen347
 \pgfarrowlinewidth=\dimen348
 )
-\CF_cnt_atomgroup=\count353
-\CF_cnt_group=\count354
-\CF_cnt_atom=\count355
-\CF_cnt_cycle=\count356
-\CF_cnt_cyclebonds=\count357
-\CF_cnt_compound=\count358
+\CF_cnt_atomgroup=\count356
+\CF_cnt_group=\count357
+\CF_cnt_atom=\count358
+\CF_cnt_cycle=\count359
+\CF_cnt_cyclebonds=\count360
+\CF_cnt_compound=\count361
 \CF_dim=\dimen349
-\CF_arrowsize=\dimen350
-\CF_zero=\dimen351
-\CF_box=\box164
-\CF_boxstuff=\box165
-\CF_testbox=\box166
-\CF_chargebox=\box167
-\CF_substtoks=\toks40
+\CF_turnangle=\dimen350
+\CF_arrowsize=\dimen351
+\CF_zero=\dimen352
+\CF_box=\box165
+\CF_boxstuff=\box166
+\CF_testbox=\box167
+\CF_chargebox=\box168
+\CF_substtoks=\toks41
 )
-Package: chemfig 2023/02/18 v1.6d Draw molecule with an easy syntax (CT)
+Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 ) (/usr/share/texmf-dist/tex/latex/bigfoot/perpage.sty
 Package: perpage 2014/10/25 2.0 Reset/sort counters per page
 )
@@ -973,7 +971,7 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 (/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
-Package: ragged2e 2023/02/25 v3.4 ragged2e Package
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \CenteringLeftskip=\skip142
 \RaggedLeftLeftskip=\skip143
 \RaggedRightLeftskip=\skip144
@@ -994,42 +992,42 @@ Package: ragged2e 2023/02/25 v3.4 ragged2e Package
 \vwcol@totalwidth=\skip158
 \vwcol@averagewidth=\skip159
 \vwcol@parindent=\skip160
-\vwcol@last=\count359
-\vwcol@Ncols=\count360
-\vwcol@Nlines=\count361
-\vwcol@maxrecursion=\count362
-\vwcol@box=\box168
-\vwcol@plainbox=\box169
-\vwcol@outputbox=\box170
+\vwcol@last=\count362
+\vwcol@Ncols=\count363
+\vwcol@Nlines=\count364
+\vwcol@maxrecursion=\count365
+\vwcol@box=\box169
+\vwcol@plainbox=\box170
+\vwcol@outputbox=\box171
 )
 (/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
 
 (/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count363
-\l_MT_multwidth_dim=\dimen352
+\g_MT_multlinerow_int=\count366
+\l_MT_multwidth_dim=\dimen353
 \origjot=\skip161
-\l_MT_shortvdotswithinadjustabove_dim=\dimen353
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen354
-\l_MT_above_intertext_sep=\dimen355
-\l_MT_below_intertext_sep=\dimen356
-\l_MT_above_shortintertext_sep=\dimen357
-\l_MT_below_shortintertext_sep=\dimen358
-\xmathstrut@box=\box171
-\xmathstrut@dim=\dimen359
+\l_MT_shortvdotswithinadjustabove_dim=\dimen354
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen355
+\l_MT_above_intertext_sep=\dimen356
+\l_MT_below_intertext_sep=\dimen357
+\l_MT_above_shortintertext_sep=\dimen358
+\l_MT_below_shortintertext_sep=\dimen359
+\xmathstrut@box=\box172
+\xmathstrut@dim=\dimen360
 )
 (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 (/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count364
+\c@r@tfl@t=\count367
 \rotFPtop=\skip162
 \rotFPbot=\skip163
-\rot@float@box=\box172
-\rot@mess@toks=\toks41
+\rot@float@box=\box173
+\rot@mess@toks=\toks42
 )
 (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
@@ -1038,29 +1036,29 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian.sty
-Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
+Package: xepersian 2023/08/30 v25.0 (Release Women, Life, and Freedom) Persian 
 typesetting in XeLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count365
-\l__fontspec_language_int=\count366
-\l__fontspec_strnum_int=\count367
-\l__fontspec_tmp_int=\count368
-\l__fontspec_tmpa_int=\count369
-\l__fontspec_tmpb_int=\count370
-\l__fontspec_tmpc_int=\count371
-\l__fontspec_em_int=\count372
-\l__fontspec_emdef_int=\count373
-\l__fontspec_strong_int=\count374
-\l__fontspec_strongdef_int=\count375
-\l__fontspec_tmpa_dim=\dimen360
-\l__fontspec_tmpb_dim=\dimen361
-\l__fontspec_tmpc_dim=\dimen362
+\l__fontspec_script_int=\count368
+\l__fontspec_language_int=\count369
+\l__fontspec_strnum_int=\count370
+\l__fontspec_tmp_int=\count371
+\l__fontspec_tmpa_int=\count372
+\l__fontspec_tmpb_int=\count373
+\l__fontspec_tmpc_int=\count374
+\l__fontspec_em_int=\count375
+\l__fontspec_emdef_int=\count376
+\l__fontspec_strong_int=\count377
+\l__fontspec_strongdef_int=\count378
+\l__fontspec_tmpa_dim=\dimen361
+\l__fontspec_tmpb_dim=\dimen362
+\l__fontspec_tmpc_dim=\dimen363
 
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1068,51 +1066,51 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count376
-\XePersian@y=\count377
-\XePersian@m=\count378
-\XePersian@d=\count379
-\XePersian@latini=\count380
-\XePersian@persiani=\count381
-\XePersian@latinii=\count382
-\XePersian@persianii=\count383
-\XePersian@latiniii=\count384
-\XePersian@persianiii=\count385
-\XePersian@latiniv=\count386
-\XePersian@persianiv=\count387
-\XePersian@latinv=\count388
-\XePersian@persianv=\count389
-\XePersian@latinvi=\count390
-\XePersian@persianvi=\count391
-\XePersian@latinvii=\count392
-\XePersian@persianvii=\count393
-\XePersian@latinviii=\count394
-\XePersian@persianviii=\count395
-\XePersian@latinix=\count396
-\XePersian@persianix=\count397
-\XePersian@latinx=\count398
-\XePersian@persianx=\count399
-\XePersian@latinxi=\count400
-\XePersian@persianxi=\count401
-\XePersian@latinxii=\count402
-\XePersian@persianxii=\count403
-\XePersian@persianxiii=\count404
-\XePersian@temp=\count405
-\XePersian@temptwo=\count406
-\XePersian@tempthree=\count407
-\XePersian@yModHundred=\count408
-\XePersian@thirtytwo=\count409
-\XePersian@dn=\count410
-\XePersian@sn=\count411
-\XePersian@mminusone=\count412
+\XePersian@i=\count379
+\XePersian@y=\count380
+\XePersian@m=\count381
+\XePersian@d=\count382
+\XePersian@latini=\count383
+\XePersian@persiani=\count384
+\XePersian@latinii=\count385
+\XePersian@persianii=\count386
+\XePersian@latiniii=\count387
+\XePersian@persianiii=\count388
+\XePersian@latiniv=\count389
+\XePersian@persianiv=\count390
+\XePersian@latinv=\count391
+\XePersian@persianv=\count392
+\XePersian@latinvi=\count393
+\XePersian@persianvi=\count394
+\XePersian@latinvii=\count395
+\XePersian@persianvii=\count396
+\XePersian@latinviii=\count397
+\XePersian@persianviii=\count398
+\XePersian@latinix=\count399
+\XePersian@persianix=\count400
+\XePersian@latinx=\count401
+\XePersian@persianx=\count402
+\XePersian@latinxi=\count403
+\XePersian@persianxi=\count404
+\XePersian@latinxii=\count405
+\XePersian@persianxii=\count406
+\XePersian@persianxiii=\count407
+\XePersian@temp=\count408
+\XePersian@temptwo=\count409
+\XePersian@tempthree=\count410
+\XePersian@yModHundred=\count411
+\XePersian@thirtytwo=\count412
+\XePersian@dn=\count413
+\XePersian@sn=\count414
+\XePersian@mminusone=\count415
 )
 (/usr/share/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
 in XeLaTeX
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/bidi.sty
-Package: bidi 2023/01/18 v39.7 (Release Serge Lang) Bidirectional typesetting i
-n plain TeX and LaTeX
+Package: bidi 2023/08/02 v39.8 (Release Donald Ervin Knuth) Bidirectional types
+etting in plain TeX and LaTeX
 
 ****************************************************
 * 
@@ -1127,7 +1125,7 @@ n plain TeX and LaTeX
 * Copyright (c) 2007--2023 Vafa Khalighi
 * Copyright (c) 2018--2020 bidi-tex GitHub organization
 * 
-* v39.7 (Release Serge Lang), 2023/01/18
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
 * 
 * License: LaTeX Project Public License, version
 * 1.3c or higher (your choice)
@@ -1143,29 +1141,29 @@ n plain TeX and LaTeX
 ****************************************************
 (/usr/share/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks42
-\@bidi@emptytoks=\toks43
-\bidi@poscount=\count413
-\bidi@tempcountb=\count414
-\bidi@temptoksa=\toks44
-\bidi@temptoksb=\toks45
-\bidi@dummies=\count415
-\bidi@are@these@correct=\toks46
-\bidi@toks@lista=\toks47
-\bidi@toks@listb=\toks48
-\bidi@stack@length=\count416
-\bidi@empty@stack=\toks49
-\bidi@looprepeat@depth=\count417
+\@bidi@envbody=\toks43
+\@bidi@emptytoks=\toks44
+\bidi@poscount=\count416
+\bidi@tempcountb=\count417
+\bidi@temptoksa=\toks45
+\bidi@temptoksb=\toks46
+\bidi@dummies=\count418
+\bidi@are@these@correct=\toks47
+\bidi@toks@lista=\toks48
+\bidi@toks@listb=\toks49
+\bidi@stack@length=\count419
+\bidi@empty@stack=\toks50
+\bidi@looprepeat@depth=\count420
 )
 (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks50
-\XKV@tempa@toks=\toks51
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count418
+\XKV@depth=\count421
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -1173,14 +1171,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (/usr/share/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks52
-\bidi@column@check@number=\count419
+\bidi@n@everypar=\toks53
+\bidi@column@check@number=\count422
 
 (/usr/share/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count420
-\footdir@toks=\toks53
+\c@footdir@label=\count423
+\footdir@toks=\toks54
 )
 (/usr/share/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
 File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
@@ -1253,7 +1251,7 @@ kage for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count421
+\bidi@digits=\count424
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1265,10 +1263,10 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * typesetting, using fonts provided in the
 * distribution.
 * 
-* Copyright (c) 2008--2022 Vafa Khalighi
+* Copyright (c) 2008--2023 Vafa Khalighi
 * Copyright (c) 2018--2020 bidi-tex GitHub Organization
 * 
-* v24.8 (Release Women, Life, and Freedom), 2022/10/30
+* v25.0 (Release Women, Life, and Freedom), 2023/08/30
 * 
 * License: LaTeX Project Public License, version
 * 1.3c or higher (your choice)
@@ -1282,9 +1280,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count422
-\xepersian@ilg=\dimen363
-\xepersian@strutilg=\dimen364
+\xepersian@tcl=\count425
+\xepersian@ilg=\dimen364
+\xepersian@strutilg=\dimen365
 (/usr/share/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -1404,7 +1402,7 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
 \symnew@mathbf@font@digits=\mathgroup5
 \symnew@mathit@font@digits=\mathgroup6
 \symnew@mathrm@font@digits=\mathgroup7
-\c@pp@a@footnote=\count423
+\c@pp@a@footnote=\count426
 
 (./fasl2.aux)
 \openout1 = `fasl2.aux'.
@@ -1421,7 +1419,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
 7.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 97.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
@@ -1466,8 +1464,7 @@ LaTeX Font Info:    ... okay on input line 97.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/share/texmf-dist/tex/latex/ninecolors/ninecolors.sty
-Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
-
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
 
 Package chemgreek Info: Activating mapping `fontspec' on line 97.
@@ -1558,6 +1555,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 769--771
 [][]
  []
 
+
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.784 ^^I^^I\centering
+                      
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[][]
+ []
+
+
+Package tabularray Warning: Table width is too small, need 75.08075pt more!
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--818
+[][]
+ []
+
+
+Overfull \hbox (75.08075pt too wide) in paragraph at lines 818--819
+ [][][][] 
+ []
+
 [11]
 > Step: init table outer spec.
 > Step: parse table options.
@@ -1568,12 +1613,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 769--771
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [12]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 825--839
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 866--880
 [][][]
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 849--854
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 890--895
 [][][]
  []
 
@@ -1588,34 +1633,34 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.877 ب
+l.918 ب
        )
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 889--907
+Underfull \hbox (badness 10000) in paragraph at lines 930--948
 [][]
  []
 
 
-Overfull \hbox (1.95311pt too wide) in paragraph at lines 889--907
+Overfull \hbox (1.95311pt too wide) in paragraph at lines 930--948
 []$[]$ $[]$ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 889--907
+Underfull \hbox (badness 10000) in paragraph at lines 930--948
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--925
+Underfull \hbox (badness 10000) in paragraph at lines 949--966
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--925
+Underfull \hbox (badness 10000) in paragraph at lines 949--966
 [][]
  []
 
@@ -1623,33 +1668,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 908--925
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 982.
+ne 1023.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(1)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(1)/b/n' tried instead on input li
-ne 982.
+ne 1023.
 
-Underfull \hbox (badness 10000) in paragraph at lines 999--1000
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1041
 [][]
  []
 
 [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1078--1081
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1122
 [][]
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1195
+Underfull \hbox (badness 10000) in paragraph at lines 1233--1236
 [][]
  []
 
 [19] [20]
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1273--1276
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1314--1317
 [][][]
  []
 
 
-Overfull \hbox (42.06241pt too wide) in paragraph at lines 1295--1295
+Overfull \hbox (42.06241pt too wide) in paragraph at lines 1336--1336
 [][][] []
  []
 
@@ -1701,12 +1746,12 @@ Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (137.47505pt too wide) in paragraph at lines 1295--1295
+Overfull \hbox (137.47505pt too wide) in paragraph at lines 1336--1336
 [][][] []
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 1295--1295
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1336--1336
 [][]$[]$ $[]$ []
  []
 
@@ -1758,36 +1803,36 @@ Missing character: There is no ا (U+0627) in font [lmroman10-regular]/OT:script
 Missing character: There is no م (U+0645) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (114.58351pt too wide) in paragraph at lines 1295--1295
+Overfull \hbox (114.58351pt too wide) in paragraph at lines 1336--1336
 []|$[]$ $[]$ []
  []
 
 
-Overfull \vbox (20.40005pt too high) detected at line 1295
+Overfull \vbox (20.40005pt too high) detected at line 1336
  []
 
 
-Underfull \hbox (badness 10000) detected at line 1295
+Underfull \hbox (badness 10000) detected at line 1336
 [] [][][]|[][][] 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 1365--1387
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1428
 [][]
  []
 
 [22]
-Overfull \hbox (12.25357pt too wide) in paragraph at lines 1420--1422
+Overfull \hbox (12.25357pt too wide) in paragraph at lines 1461--1463
 []$[]$[]
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 1424--1443
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1465--1484
 [][]$[]$$[]$[]
  []
 
 ! Misplaced alignment tab character &.
-l.1446 \end{minipage}&
+l.1487 \end{minipage}&
                       
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1797,42 +1842,42 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (19.95311pt too wide) in paragraph at lines 1444--1453
+Overfull \hbox (19.95311pt too wide) in paragraph at lines 1485--1494
 [][]$[]$ $[]$ []
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1480
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1521
 [][]
  []
 
 
-Overfull \hbox (3.81978pt too wide) in paragraph at lines 1467--1480
+Overfull \hbox (3.81978pt too wide) in paragraph at lines 1508--1521
 [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1467--1480
+Underfull \hbox (badness 10000) in paragraph at lines 1508--1521
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1495--1526
+Underfull \hbox (badness 10000) in paragraph at lines 1536--1567
 [][]
  []
 
 
-Overfull \hbox (23.56126pt too wide) in paragraph at lines 1535--1539
+Overfull \hbox (23.56126pt too wide) in paragraph at lines 1576--1580
  [][][][][] 
  []
 
 
-Overfull \hbox (19.54759pt too wide) in paragraph at lines 1544--1548
+Overfull \hbox (19.54759pt too wide) in paragraph at lines 1585--1589
  [][][][][] 
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 1527--1550
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 1568--1591
 [][][][][] []
  []
 
@@ -1891,17 +1936,25 @@ Missing character: There is no گ ("6AF) in font cmmi8!
 Missing character: There is no ش ("634) in font cmmi8!
 Missing character: There is no ت ("62A) in font cmmi8!
 [28] (./fasl2.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 29496 strings out of 478673
- 692685 string characters out of 5849398
- 1909018 words of memory out of 5000000
- 48998 multiletter control sequences out of 15000+600000
- 520820 words of font info for 104 fonts, out of 8000000 for 9000
+ 29395 strings out of 476763
+ 688022 string characters out of 5803126
+ 1984839 words of memory out of 5000000
+ 50805 multiletter control sequences out of 15000+600000
+ 567976 words of font info for 111 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 115i,24n,118p,2402b,1505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,24n,121p,2402b,1507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on fasl2.pdf (28 pages).
